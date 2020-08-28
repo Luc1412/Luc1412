@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Become more advanced in web front- and (Python) backend
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.luc1412.vercel.app/api/spotify-playing" alt="Luc1412 Spotify Playing" width="350" />](https://open.spotify.com/user/8s2b4vb43lo6dpah7fgitatrw)
+[<img src="https://novatorem-azure.vercel.app/api/spotify-playing" alt="Luc1412 Spotify Playing" width="350" />](https://open.spotify.com/user/8s2b4vb43lo6dpah7fgitatrw)
 
 ### Connect with me:
 
