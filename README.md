@@ -35,9 +35,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com//novatorem/novatorem/issues/7) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
-2. 🎉 Merged PR [#1](https://github.com//Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com//Luc1412/fortnitepy)
-3. 💪 Opened PR [#1](https://github.com//Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com//Luc1412/fortnitepy)
-4. 🗣 Commented on [#4765](https://github.com//python-pillow/Pillow/issues/4765) in [python-pillow/Pillow](https://github.com//python-pillow/Pillow)
+2. 🗣 Commented on [#7](https://github.com//novatorem/novatorem/issues/7) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+3. 🎉 Merged PR [#1](https://github.com//Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com//Luc1412/fortnitepy)
+4. 💪 Opened PR [#1](https://github.com//Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com//Luc1412/fortnitepy)
 <!--END_SECTION:activity-->
 
 </details>
