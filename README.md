@@ -34,10 +34,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#123](https://github.com//Terbau/fortnitepy/issues/123) in [Terbau/fortnitepy](https://github.com//Terbau/fortnitepy)
-2. 🗣 Commented on [#7](https://github.com//novatorem/novatorem/issues/7) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+1. ❗️ Opened issue [#124](https://github.com//Terbau/fortnitepy/issues/124) in [Terbau/fortnitepy](https://github.com//Terbau/fortnitepy)
+2. ❗️ Opened issue [#123](https://github.com//Terbau/fortnitepy/issues/123) in [Terbau/fortnitepy](https://github.com//Terbau/fortnitepy)
 3. 🗣 Commented on [#7](https://github.com//novatorem/novatorem/issues/7) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
-4. 🎉 Merged PR [#1](https://github.com//Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com//Luc1412/fortnitepy)
+4. 🗣 Commented on [#7](https://github.com//novatorem/novatorem/issues/7) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
 <!--END_SECTION:activity-->
 
 </details>
