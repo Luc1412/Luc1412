@@ -34,9 +34,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#124](https://github.com//Terbau/fortnitepy/issues/124) in [Terbau/fortnitepy](https://github.com//Terbau/fortnitepy)
-2. ❗️ Opened issue [#123](https://github.com//Terbau/fortnitepy/issues/123) in [Terbau/fortnitepy](https://github.com//Terbau/fortnitepy)
-3. 🗣 Commented on [#7](https://github.com//novatorem/novatorem/issues/7) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
+1. ❗️ Opened issue [#5808](https://github.com//Rapptz/discord.py/issues/5808) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
+2. ❗️ Opened issue [#124](https://github.com//Terbau/fortnitepy/issues/124) in [Terbau/fortnitepy](https://github.com//Terbau/fortnitepy)
+3. ❗️ Opened issue [#123](https://github.com//Terbau/fortnitepy/issues/123) in [Terbau/fortnitepy](https://github.com//Terbau/fortnitepy)
 4. 🗣 Commented on [#7](https://github.com//novatorem/novatorem/issues/7) in [novatorem/novatorem](https://github.com//novatorem/novatorem)
 <!--END_SECTION:activity-->
 
