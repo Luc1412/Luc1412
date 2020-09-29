@@ -34,10 +34,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5851](https://github.com/Rapptz/discord.py/issues/5851) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. ❗️ Opened issue [#5851](https://github.com/Rapptz/discord.py/issues/5851) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. ❗️ Opened issue [#5808](https://github.com/Rapptz/discord.py/issues/5808) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. ❗️ Opened issue [#124](https://github.com/Terbau/fortnitepy/issues/124) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+1. ❗️ Opened issue [#2111](https://github.com/discord/discord-api-docs/issues/2111) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#5851](https://github.com/Rapptz/discord.py/issues/5851) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. ❗️ Opened issue [#5851](https://github.com/Rapptz/discord.py/issues/5851) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. ❗️ Opened issue [#5808](https://github.com/Rapptz/discord.py/issues/5808) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
