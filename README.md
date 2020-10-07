@@ -34,10 +34,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#430](https://github.com/top-gg/issues/issues/430) in [top-gg/issues](https://github.com/top-gg/issues)
-2. 🗣 Commented on [#2111](https://github.com/discord/discord-api-docs/issues/2111) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. ❗️ Opened issue [#2111](https://github.com/discord/discord-api-docs/issues/2111) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🗣 Commented on [#5851](https://github.com/Rapptz/discord.py/issues/5851) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. ❗️ Opened issue [#433](https://github.com/top-gg/issues/issues/433) in [top-gg/issues](https://github.com/top-gg/issues)
+2. ❗️ Opened issue [#430](https://github.com/top-gg/issues/issues/430) in [top-gg/issues](https://github.com/top-gg/issues)
+3. 🗣 Commented on [#2111](https://github.com/discord/discord-api-docs/issues/2111) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. ❗️ Opened issue [#2111](https://github.com/discord/discord-api-docs/issues/2111) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 </details>
