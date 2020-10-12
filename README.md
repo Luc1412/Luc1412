@@ -5,7 +5,7 @@
 
 ## I'm a Student!
 
-- 🔭 I’m currently working on a [Discord Bots][topgg]!
+- 🔭 I’m currently working on [Discord Bots][topgg]!
 - 🌱 I’m currently learning how to scale and cluster applications.
 - 🥅 2020 Goals: Become more advanced in web front- and (Python) backend
 
