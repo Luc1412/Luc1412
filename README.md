@@ -34,10 +34,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Fortnite-API/py-wrapper/issues/1) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. ❗️ Opened issue [#433](https://github.com/top-gg/issues/issues/433) in [top-gg/issues](https://github.com/top-gg/issues)
-3. ❗️ Opened issue [#430](https://github.com/top-gg/issues/issues/430) in [top-gg/issues](https://github.com/top-gg/issues)
-4. 🗣 Commented on [#2111](https://github.com/discord/discord-api-docs/issues/2111) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❗️ Opened issue [#444](https://github.com/top-gg/issues/issues/444) in [top-gg/issues](https://github.com/top-gg/issues)
+2. 🗣 Commented on [#1](https://github.com/Fortnite-API/py-wrapper/issues/1) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. ❗️ Opened issue [#433](https://github.com/top-gg/issues/issues/433) in [top-gg/issues](https://github.com/top-gg/issues)
+4. ❗️ Opened issue [#430](https://github.com/top-gg/issues/issues/430) in [top-gg/issues](https://github.com/top-gg/issues)
 <!--END_SECTION:activity-->
 
 </details>
