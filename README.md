@@ -34,10 +34,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#815](https://github.com/aio-libs/aioredis/issues/815) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
-2. ❗️ Opened issue [#444](https://github.com/top-gg/issues/issues/444) in [top-gg/issues](https://github.com/top-gg/issues)
-3. 🗣 Commented on [#1](https://github.com/Fortnite-API/py-wrapper/issues/1) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. ❗️ Opened issue [#433](https://github.com/top-gg/issues/issues/433) in [top-gg/issues](https://github.com/top-gg/issues)
+1. ❗️ Closed issue [#815](https://github.com/aio-libs/aioredis/issues/815) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+2. 🗣 Commented on [#815](https://github.com/aio-libs/aioredis/issues/815) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+3. ❗️ Opened issue [#815](https://github.com/aio-libs/aioredis/issues/815) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+4. ❗️ Opened issue [#444](https://github.com/top-gg/issues/issues/444) in [top-gg/issues](https://github.com/top-gg/issues)
 <!--END_SECTION:activity-->
 
 </details>
