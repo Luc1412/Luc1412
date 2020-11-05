@@ -36,8 +36,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2211](https://github.com/discord/discord-api-docs/issues/2211) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 2. 🗣 Commented on [#2211](https://github.com/discord/discord-api-docs/issues/2211) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. ❗️ Opened issue [#2211](https://github.com/discord/discord-api-docs/issues/2211) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. ❗️ Closed issue [#2210](https://github.com/discord/discord-api-docs/issues/2210) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 🗣 Commented on [#2211](https://github.com/discord/discord-api-docs/issues/2211) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. ❗️ Opened issue [#2211](https://github.com/discord/discord-api-docs/issues/2211) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 </details>
