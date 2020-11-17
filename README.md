@@ -34,8 +34,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#489](https://github.com/top-gg/issues/issues/489) in [top-gg/issues](https://github.com/top-gg/issues)
-2. 🗣 Commented on [#2211](https://github.com/discord/discord-api-docs/issues/2211) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❗️ Opened issue [#2247](https://github.com/discord/discord-api-docs/issues/2247) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. ❗️ Opened issue [#489](https://github.com/top-gg/issues/issues/489) in [top-gg/issues](https://github.com/top-gg/issues)
 3. 🗣 Commented on [#2211](https://github.com/discord/discord-api-docs/issues/2211) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 4. 🗣 Commented on [#2211](https://github.com/discord/discord-api-docs/issues/2211) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
