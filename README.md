@@ -34,10 +34,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Luc1412/fortnitepy/pull/2) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
-2. 💪 Opened PR [#2](https://github.com/Luc1412/fortnitepy/pull/2) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
-3. ❗️ Closed issue [#2247](https://github.com/discord/discord-api-docs/issues/2247) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🗣 Commented on [#2247](https://github.com/discord/discord-api-docs/issues/2247) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❗️ Closed issue [#1](https://github.com/Fortnite-API/py-wrapper/issues/1) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🎉 Merged PR [#2](https://github.com/Luc1412/fortnitepy/pull/2) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
+3. 💪 Opened PR [#2](https://github.com/Luc1412/fortnitepy/pull/2) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
+4. ❗️ Closed issue [#2247](https://github.com/discord/discord-api-docs/issues/2247) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 </details>
