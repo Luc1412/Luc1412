@@ -5,8 +5,9 @@
 
 ## I'm a Student!
 
-- 🔭 I’m currently working on [Discord Bots][topgg]!
+- 🔭 I’m currently working on [Discord Bots][topgg].
 - 🌱 I’m currently learning how to scale and cluster applications.
+- 💼 I’m currently working at the Free University of Berlin,
 - 🥅 2020 Goals: Become more advanced in web front- and (Python) backend
 
 ### Spotify Playing 🎧
