@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Discord Bots][topgg].
 - 🌱 I’m currently learning how to scale and cluster applications.
 - 💼 I’m currently working at the Free University of Berlin,
-- 🥅 2020 Goals: Become more advanced in web front- and (Python) backend
+- 🥅 2021 Goals: Become more advanced in web front- and (Python) backend
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.luc1412.vercel.app/api/spotify" alt="Luc1412 Spotify Playing" width="350" />](https://open.spotify.com/user/8s2b4vb43lo6dpah7fgitatrw)
