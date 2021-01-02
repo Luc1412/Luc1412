@@ -35,10 +35,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
-2. ❗️ Opened issue [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
-3. ❗️ Opened issue [#527](https://github.com/top-gg/issues/issues/527) in [top-gg/issues](https://github.com/top-gg/issues)
-4. ❗️ Closed issue [#1](https://github.com/Fortnite-API/py-wrapper/issues/1) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. ❗️ Closed issue [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+2. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+3. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+4. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
 <!--END_SECTION:activity-->
 
 </details>
