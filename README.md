@@ -35,10 +35,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#527](https://github.com/top-gg/issues/issues/527) in [top-gg/issues](https://github.com/top-gg/issues)
-2. ❗️ Closed issue [#1](https://github.com/Fortnite-API/py-wrapper/issues/1) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🎉 Merged PR [#2](https://github.com/Luc1412/fortnitepy/pull/2) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
-4. 💪 Opened PR [#2](https://github.com/Luc1412/fortnitepy/pull/2) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
+1. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+2. ❗️ Opened issue [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+3. ❗️ Opened issue [#527](https://github.com/top-gg/issues/issues/527) in [top-gg/issues](https://github.com/top-gg/issues)
+4. ❗️ Closed issue [#1](https://github.com/Fortnite-API/py-wrapper/issues/1) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
