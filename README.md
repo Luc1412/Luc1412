@@ -35,8 +35,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
-2. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+1. 🗣 Commented on [#4765](https://github.com/python-pillow/Pillow/issues/4765) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+2. ❗️ Closed issue [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
 3. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
 4. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
 <!--END_SECTION:activity-->
