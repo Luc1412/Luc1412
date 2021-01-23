@@ -35,10 +35,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4765](https://github.com/python-pillow/Pillow/issues/4765) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-2. 🗣 Commented on [#4765](https://github.com/python-pillow/Pillow/issues/4765) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-3. ❗️ Closed issue [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
-4. 🗣 Commented on [#879](https://github.com/aio-libs/aioredis/issues/879) in [aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+1. ❗️ Closed issue [#2068](https://github.com/docker/hub-feedback/issues/2068) in [docker/hub-feedback](https://github.com/docker/hub-feedback)
+2. ❗️ Opened issue [#2068](https://github.com/docker/hub-feedback/issues/2068) in [docker/hub-feedback](https://github.com/docker/hub-feedback)
+3. 🗣 Commented on [#4765](https://github.com/python-pillow/Pillow/issues/4765) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+4. 🗣 Commented on [#4765](https://github.com/python-pillow/Pillow/issues/4765) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
 <!--END_SECTION:activity-->
 
 </details>
