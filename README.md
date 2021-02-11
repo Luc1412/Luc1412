@@ -35,10 +35,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5262](https://github.com/python-pillow/Pillow/issues/5262) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-2. ❗️ Opened issue [#1838](https://github.com/Ryochan7/DS4Windows/issues/1838) in [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows)
-3. ❗️ Closed issue [#2068](https://github.com/docker/hub-feedback/issues/2068) in [docker/hub-feedback](https://github.com/docker/hub-feedback)
-4. ❗️ Opened issue [#2068](https://github.com/docker/hub-feedback/issues/2068) in [docker/hub-feedback](https://github.com/docker/hub-feedback)
+1. ❗️ Closed issue [#5262](https://github.com/python-pillow/Pillow/issues/5262) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+2. 🗣 Commented on [#5262](https://github.com/python-pillow/Pillow/issues/5262) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+3. ❗️ Opened issue [#5262](https://github.com/python-pillow/Pillow/issues/5262) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+4. ❗️ Opened issue [#1838](https://github.com/Ryochan7/DS4Windows/issues/1838) in [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows)
 <!--END_SECTION:activity-->
 
 </details>
