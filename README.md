@@ -35,10 +35,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5851](https://github.com/Rapptz/discord.py/issues/5851) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🗣 Commented on [#2628](https://github.com/discord/discord-api-docs/issues/2628) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. ❗️ Opened issue [#2628](https://github.com/discord/discord-api-docs/issues/2628) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. ❗️ Closed issue [#5262](https://github.com/python-pillow/Pillow/issues/5262) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+1. 🗣 Commented on [#599](https://github.com/top-gg/issues/issues/599) in [top-gg/issues](https://github.com/top-gg/issues)
+2. 🗣 Commented on [#5851](https://github.com/Rapptz/discord.py/issues/5851) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🗣 Commented on [#2628](https://github.com/discord/discord-api-docs/issues/2628) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. ❗️ Opened issue [#2628](https://github.com/discord/discord-api-docs/issues/2628) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 </details>
