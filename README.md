@@ -35,10 +35,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Luc1412/novatorem/pull/1) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
-2. 🎉 Merged PR [#1](https://github.com/Luc1412/github-readme-stats/pull/1) in [Luc1412/github-readme-stats](https://github.com/Luc1412/github-readme-stats)
-3. 💪 Opened PR [#1](https://github.com/Luc1412/github-readme-stats/pull/1) in [Luc1412/github-readme-stats](https://github.com/Luc1412/github-readme-stats)
-4. 🗣 Commented on [#599](https://github.com/top-gg/issues/issues/599) in [top-gg/issues](https://github.com/top-gg/issues)
+1. 🎉 Merged PR [#1](https://github.com/Luc1412/novatorem/pull/1) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
+2. 💪 Opened PR [#1](https://github.com/Luc1412/novatorem/pull/1) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
+3. 🎉 Merged PR [#1](https://github.com/Luc1412/github-readme-stats/pull/1) in [Luc1412/github-readme-stats](https://github.com/Luc1412/github-readme-stats)
+4. 💪 Opened PR [#1](https://github.com/Luc1412/github-readme-stats/pull/1) in [Luc1412/github-readme-stats](https://github.com/Luc1412/github-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
