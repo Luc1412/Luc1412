@@ -35,10 +35,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6528](https://github.com/Rapptz/discord.py/pull/6528) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🎉 Merged PR [#1](https://github.com/Luc1412/novatorem/pull/1) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
-3. 💪 Opened PR [#1](https://github.com/Luc1412/novatorem/pull/1) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
-4. 🎉 Merged PR [#1](https://github.com/Luc1412/github-readme-stats/pull/1) in [Luc1412/github-readme-stats](https://github.com/Luc1412/github-readme-stats)
+1. 🗣 Commented on [#6528](https://github.com/Rapptz/discord.py/issues/6528) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 💪 Opened PR [#6528](https://github.com/Rapptz/discord.py/pull/6528) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🎉 Merged PR [#1](https://github.com/Luc1412/novatorem/pull/1) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
+4. 💪 Opened PR [#1](https://github.com/Luc1412/novatorem/pull/1) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
 <!--END_SECTION:activity-->
 
 </details>
