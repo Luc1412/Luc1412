@@ -35,10 +35,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5381](https://github.com/python-pillow/Pillow/issues/5381) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-2. ❗️ Opened issue [#140](https://github.com/eunwoo1104/discord-py-slash-command/issues/140) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
-3. ❗️ Opened issue [#4896](https://github.com/Cog-Creators/Red-DiscordBot/issues/4896) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-4. 🗣 Commented on [#6528](https://github.com/Rapptz/discord.py/issues/6528) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. 🗣 Commented on [#1](https://github.com/Luc1412/EasyDeviceAuth/issues/1) in [Luc1412/EasyDeviceAuth](https://github.com/Luc1412/EasyDeviceAuth)
+2. ❗️ Opened issue [#5381](https://github.com/python-pillow/Pillow/issues/5381) in [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+3. ❗️ Opened issue [#140](https://github.com/eunwoo1104/discord-py-slash-command/issues/140) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
+4. ❗️ Opened issue [#4896](https://github.com/Cog-Creators/Red-DiscordBot/issues/4896) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
