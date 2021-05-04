@@ -35,7 +35,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/eunwoo1104/discord-py-slash-command/issues/161) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
+1. ❗️ Opened issue [#2877](https://github.com/discord/discord-api-docs/issues/2877) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 2. 🗣 Commented on [#161](https://github.com/eunwoo1104/discord-py-slash-command/issues/161) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
 3. 🗣 Commented on [#161](https://github.com/eunwoo1104/discord-py-slash-command/issues/161) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
 4. 🗣 Commented on [#161](https://github.com/eunwoo1104/discord-py-slash-command/issues/161) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
