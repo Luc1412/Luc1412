@@ -62,10 +62,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3011](https://github.com/discord/discord-api-docs/issues/3011) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. ❗️ Opened issue [#3002](https://github.com/discord/discord-api-docs/issues/3002) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🎉 Merged PR [#4](https://github.com/Fortnite-API/py-wrapper/pull/4) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. ❗️ Opened issue [#2944](https://github.com/discord/discord-api-docs/issues/2944) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❗️ Opened issue [#493](https://github.com/freyacodes/Lavalink/issues/493) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
+2. 🗣 Commented on [#3011](https://github.com/discord/discord-api-docs/issues/3011) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. ❗️ Opened issue [#3002](https://github.com/discord/discord-api-docs/issues/3002) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🎉 Merged PR [#4](https://github.com/Fortnite-API/py-wrapper/pull/4) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
