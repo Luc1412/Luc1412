@@ -62,10 +62,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#493](https://github.com/freyacodes/Lavalink/issues/493) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
-2. 🗣 Commented on [#493](https://github.com/freyacodes/Lavalink/issues/493) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
-3. ❗️ Opened issue [#633](https://github.com/sedmelluq/lavaplayer/issues/633) in [sedmelluq/lavaplayer](https://github.com/sedmelluq/lavaplayer)
-4. ❗️ Opened issue [#493](https://github.com/freyacodes/Lavalink/issues/493) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
+1. 🗣 Commented on [#5](https://github.com/Fortnite-API/py-wrapper/issues/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🗣 Commented on [#5](https://github.com/Fortnite-API/py-wrapper/issues/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🗣 Commented on [#5](https://github.com/Fortnite-API/py-wrapper/issues/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. ❗️ Closed issue [#493](https://github.com/freyacodes/Lavalink/issues/493) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
 <!--END_SECTION:activity-->
 
 </details>
