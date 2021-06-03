@@ -62,10 +62,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Fortnite-API/py-wrapper/issues/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#5](https://github.com/Fortnite-API/py-wrapper/issues/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 🗣 Commented on [#104](https://github.com/PythonistaGuild/Wavelink/issues/104) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+2. ❗️ Opened issue [#104](https://github.com/PythonistaGuild/Wavelink/issues/104) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 3. 🗣 Commented on [#5](https://github.com/Fortnite-API/py-wrapper/issues/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. ❗️ Closed issue [#493](https://github.com/freyacodes/Lavalink/issues/493) in [freyacodes/Lavalink](https://github.com/freyacodes/Lavalink)
+4. 🗣 Commented on [#5](https://github.com/Fortnite-API/py-wrapper/issues/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
