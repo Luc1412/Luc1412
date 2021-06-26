@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2920](https://github.com/discord/discord-api-docs/issues/2920) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. ❗️ Opened issue [#106](https://github.com/PythonistaGuild/Wavelink/issues/106) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-3. 🗣 Commented on [#104](https://github.com/PythonistaGuild/Wavelink/issues/104) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-4. ❗️ Opened issue [#104](https://github.com/PythonistaGuild/Wavelink/issues/104) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+1. ❗️ Opened issue [#3176](https://github.com/discord/discord-api-docs/issues/3176) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#2920](https://github.com/discord/discord-api-docs/issues/2920) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. ❗️ Opened issue [#106](https://github.com/PythonistaGuild/Wavelink/issues/106) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+4. 🗣 Commented on [#104](https://github.com/PythonistaGuild/Wavelink/issues/104) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
