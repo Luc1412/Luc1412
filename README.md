@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2877](https://github.com/discord/discord-api-docs/issues/2877) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 🗣 Commented on [#2877](https://github.com/discord/discord-api-docs/issues/2877) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. ❗️ Closed issue [#2920](https://github.com/discord/discord-api-docs/issues/2920) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🗣 Commented on [#2920](https://github.com/discord/discord-api-docs/issues/2920) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❗️ Opened issue [#3](https://github.com/Gorialis/discord.py-docker/issues/3) in [Gorialis/discord.py-docker](https://github.com/Gorialis/discord.py-docker)
+2. ❗️ Closed issue [#2877](https://github.com/discord/discord-api-docs/issues/2877) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 🗣 Commented on [#2877](https://github.com/discord/discord-api-docs/issues/2877) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. ❗️ Closed issue [#2920](https://github.com/discord/discord-api-docs/issues/2920) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 </details>
