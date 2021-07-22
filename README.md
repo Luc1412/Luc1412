@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7231](https://github.com/Rapptz/discord.py/issues/7231) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. ❗️ Opened issue [#3](https://github.com/Gorialis/discord.py-docker/issues/3) in [Gorialis/discord.py-docker](https://github.com/Gorialis/discord.py-docker)
-3. ❗️ Closed issue [#2877](https://github.com/discord/discord-api-docs/issues/2877) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🗣 Commented on [#2877](https://github.com/discord/discord-api-docs/issues/2877) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🎉 Merged PR [#2](https://github.com/Luc1412/novatorem/pull/2) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
+2. 💪 Opened PR [#2](https://github.com/Luc1412/novatorem/pull/2) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
+3. 🎉 Merged PR [#2](https://github.com/Luc1412/github-readme-stats/pull/2) in [Luc1412/github-readme-stats](https://github.com/Luc1412/github-readme-stats)
+4. 💪 Opened PR [#2](https://github.com/Luc1412/github-readme-stats/pull/2) in [Luc1412/github-readme-stats](https://github.com/Luc1412/github-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
