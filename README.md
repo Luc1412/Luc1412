@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Luc1412/fortnitepy/pull/3) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
-2. 🗣 Commented on [#7285](https://github.com/Rapptz/discord.py/issues/7285) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 💪 Opened PR [#7285](https://github.com/Rapptz/discord.py/pull/7285) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 🎉 Merged PR [#2](https://github.com/Luc1412/novatorem/pull/2) in [Luc1412/novatorem](https://github.com/Luc1412/novatorem)
+1. 💪 Opened PR [#155](https://github.com/Terbau/fortnitepy/pull/155) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+2. 🎉 Merged PR [#1](https://github.com/Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
+3. 💪 Opened PR [#1](https://github.com/Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
+4. 💪 Opened PR [#3](https://github.com/Luc1412/fortnitepy/pull/3) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
 <!--END_SECTION:activity-->
 
 </details>
