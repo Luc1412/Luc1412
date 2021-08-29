@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#155](https://github.com/Terbau/fortnitepy/pull/155) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-2. 🎉 Merged PR [#1](https://github.com/Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
-3. 💪 Opened PR [#1](https://github.com/Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
-4. 💪 Opened PR [#3](https://github.com/Luc1412/fortnitepy/pull/3) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
+1. ❌ Closed PR [#2](https://github.com/Fortnite-API/py-wrapper/pull/2) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🗣 Commented on [#2](https://github.com/Fortnite-API/py-wrapper/issues/2) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 💪 Opened PR [#155](https://github.com/Terbau/fortnitepy/pull/155) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+4. 🎉 Merged PR [#1](https://github.com/Luc1412/fortnitepy/pull/1) in [Luc1412/fortnitepy](https://github.com/Luc1412/fortnitepy)
 <!--END_SECTION:activity-->
 
 </details>
