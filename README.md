@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-2. ❌ Closed PR [#2](https://github.com/Fortnite-API/py-wrapper/pull/2) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🗣 Commented on [#2](https://github.com/Fortnite-API/py-wrapper/issues/2) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 💪 Opened PR [#155](https://github.com/Terbau/fortnitepy/pull/155) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+1. 🗣 Commented on [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. ❗️ Opened issue [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+3. ❌ Closed PR [#2](https://github.com/Fortnite-API/py-wrapper/pull/2) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🗣 Commented on [#2](https://github.com/Fortnite-API/py-wrapper/issues/2) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
