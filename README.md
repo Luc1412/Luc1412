@@ -68,8 +68,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 2. 🗣 Commented on [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. ❗️ Opened issue [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-4. ❌ Closed PR [#2](https://github.com/Fortnite-API/py-wrapper/pull/2) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🗣 Commented on [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. ❗️ Opened issue [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
 </details>
