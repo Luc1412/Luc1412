@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/Pycord-Development/pycord/issues/84) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-2. ❗️ Opened issue [#69](https://github.com/Pycord-Development/pycord/issues/69) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. 💪 Opened PR [#50](https://github.com/Pycord-Development/pycord/pull/50) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-4. 🗣 Commented on [#41](https://github.com/Pycord-Development/pycord/issues/41) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+1. 🗣 Commented on [#72](https://github.com/Pycord-Development/pycord/issues/72) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. 🗣 Commented on [#84](https://github.com/Pycord-Development/pycord/issues/84) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+3. ❗️ Opened issue [#69](https://github.com/Pycord-Development/pycord/issues/69) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. 💪 Opened PR [#50](https://github.com/Pycord-Development/pycord/pull/50) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
 </details>
