@@ -66,7 +66,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/Pycord-Development/pycord/issues/116) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+1. 💪 Opened PR [#119](https://github.com/Pycord-Development/pycord/pull/119) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 2. 🗣 Commented on [#116](https://github.com/Pycord-Development/pycord/issues/116) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 3. 🗣 Commented on [#116](https://github.com/Pycord-Development/pycord/issues/116) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 4. 🗣 Commented on [#116](https://github.com/Pycord-Development/pycord/issues/116) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
