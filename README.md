@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/project-cybersyn-game/project-cybersyn-game/pull/32) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-2. ❗️ Closed issue [#16](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/16) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-3. 🗣 Commented on [#22](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/22) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-4. ❗️ Closed issue [#22](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/22) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+1. ❗️ Opened issue [#373](https://github.com/Pycord-Development/pycord/issues/373) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. 💪 Opened PR [#32](https://github.com/project-cybersyn-game/project-cybersyn-game/pull/32) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+3. ❗️ Closed issue [#16](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/16) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+4. 🗣 Commented on [#22](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/22) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
 <!--END_SECTION:activity-->
 
 </details>
