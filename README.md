@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#403](https://github.com/Pycord-Development/pycord/issues/403) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-2. 🗣 Commented on [#392](https://github.com/Pycord-Development/pycord/issues/392) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. ❗️ Opened issue [#392](https://github.com/Pycord-Development/pycord/issues/392) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-4. 💪 Opened PR [#158](https://github.com/Terbau/fortnitepy/pull/158) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+1. 💪 Opened PR [#1](https://github.com/Luc1412/pycord/pull/1) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+2. ❗️ Opened issue [#403](https://github.com/Pycord-Development/pycord/issues/403) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+3. 🗣 Commented on [#392](https://github.com/Pycord-Development/pycord/issues/392) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. ❗️ Opened issue [#392](https://github.com/Pycord-Development/pycord/issues/392) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
 </details>
