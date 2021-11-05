@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/Pycord-Development/pycord/issues/392) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-2. ❗️ Opened issue [#392](https://github.com/Pycord-Development/pycord/issues/392) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. 💪 Opened PR [#158](https://github.com/Terbau/fortnitepy/pull/158) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-4. ❗️ Opened issue [#373](https://github.com/Pycord-Development/pycord/issues/373) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+1. ❗️ Opened issue [#403](https://github.com/Pycord-Development/pycord/issues/403) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. 🗣 Commented on [#392](https://github.com/Pycord-Development/pycord/issues/392) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+3. ❗️ Opened issue [#392](https://github.com/Pycord-Development/pycord/issues/392) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. 💪 Opened PR [#158](https://github.com/Terbau/fortnitepy/pull/158) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
 <!--END_SECTION:activity-->
 
 </details>
