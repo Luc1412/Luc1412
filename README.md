@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#424](https://github.com/Pycord-Development/pycord/issues/424) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-2. 💪 Opened PR [#424](https://github.com/Pycord-Development/pycord/pull/424) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. 💪 Opened PR [#1](https://github.com/Luc1412/pycord/pull/1) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
-4. ❗️ Opened issue [#403](https://github.com/Pycord-Development/pycord/issues/403) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+1. ❌ Closed PR [#133](https://github.com/Pycord-Development/pycord/pull/133) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. 🗣 Commented on [#133](https://github.com/Pycord-Development/pycord/issues/133) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+3. 💪 Opened PR [#428](https://github.com/Pycord-Development/pycord/pull/428) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. 🗣 Commented on [#424](https://github.com/Pycord-Development/pycord/issues/424) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
 </details>
