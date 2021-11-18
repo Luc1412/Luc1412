@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/Luc1412/pycord/pull/3) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
-2. 💪 Opened PR [#3](https://github.com/Luc1412/pycord/pull/3) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
-3. ❌ Closed PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
-4. 💪 Opened PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+1. 🎉 Merged PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+2. ❌ Reopened PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+3. ❌ Closed PR [#3](https://github.com/Luc1412/pycord/pull/3) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+4. 💪 Opened PR [#3](https://github.com/Luc1412/pycord/pull/3) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
 <!--END_SECTION:activity-->
 
 </details>
