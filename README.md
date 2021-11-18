@@ -66,9 +66,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
-2. 🗣 Commented on [#424](https://github.com/Pycord-Development/pycord/issues/424) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. ❗️ Opened issue [#438](https://github.com/Pycord-Development/pycord/issues/438) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+1. 💪 Opened PR [#3](https://github.com/Luc1412/pycord/pull/3) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+2. ❌ Closed PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+3. 💪 Opened PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
 4. 🗣 Commented on [#424](https://github.com/Pycord-Development/pycord/issues/424) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
