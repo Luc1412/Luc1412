@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Fortnite-API/py-wrapper/pull/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 💪 Opened PR [#471](https://github.com/Pycord-Development/pycord/pull/471) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. 🎉 Merged PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
-4. ❌ Reopened PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+1. 🗣 Commented on [#428](https://github.com/Pycord-Development/pycord/issues/428) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. ❌ Closed PR [#5](https://github.com/Fortnite-API/py-wrapper/pull/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 💪 Opened PR [#471](https://github.com/Pycord-Development/pycord/pull/471) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. 🎉 Merged PR [#2](https://github.com/Luc1412/pycord/pull/2) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
 <!--END_SECTION:activity-->
 
 </details>
