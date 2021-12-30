@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Fortnite-API/py-wrapper/pull/6) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. ❗️ Opened issue [#15596](https://github.com/qmk/qmk_firmware/issues/15596) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
-3. 🗣 Commented on [#428](https://github.com/Pycord-Development/pycord/issues/428) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-4. ❌ Closed PR [#5](https://github.com/Fortnite-API/py-wrapper/pull/5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 🎉 Merged PR [#7](https://github.com/Fortnite-API/py-wrapper/pull/7) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🎉 Merged PR [#6](https://github.com/Fortnite-API/py-wrapper/pull/6) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. ❗️ Opened issue [#15596](https://github.com/qmk/qmk_firmware/issues/15596) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+4. 🗣 Commented on [#428](https://github.com/Pycord-Development/pycord/issues/428) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
 </details>
