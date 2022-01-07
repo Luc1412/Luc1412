@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#717](https://github.com/Pycord-Development/pycord/issues/717) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-2. 🎉 Merged PR [#7](https://github.com/Fortnite-API/py-wrapper/pull/7) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🎉 Merged PR [#6](https://github.com/Fortnite-API/py-wrapper/pull/6) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. ❗️ Opened issue [#15596](https://github.com/qmk/qmk_firmware/issues/15596) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+1. ❗️ Opened issue [#214](https://github.com/nginxinc/nginx-amplify-agent/issues/214) in [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent)
+2. ❗️ Opened issue [#717](https://github.com/Pycord-Development/pycord/issues/717) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+3. 🎉 Merged PR [#7](https://github.com/Fortnite-API/py-wrapper/pull/7) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🎉 Merged PR [#6](https://github.com/Fortnite-API/py-wrapper/pull/6) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
