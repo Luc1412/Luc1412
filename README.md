@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
-2. 🗣 Commented on [#555](https://github.com/Pycord-Development/pycord/issues/555) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. 🗣 Commented on [#12](https://github.com/Pycord-Development/Pycord.Wavelink/issues/12) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
-4. 🗣 Commented on [#12](https://github.com/Pycord-Development/Pycord.Wavelink/issues/12) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+1. 🗣 Commented on [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+2. 🗣 Commented on [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+3. ❗️ Opened issue [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+4. 🗣 Commented on [#555](https://github.com/Pycord-Development/pycord/issues/555) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
 </details>
