@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
-2. 🗣 Commented on [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
-3. ❗️ Opened issue [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
-4. 🗣 Commented on [#555](https://github.com/Pycord-Development/pycord/issues/555) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+1. ❗️ Closed issue [#214](https://github.com/nginxinc/nginx-amplify-agent/issues/214) in [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent)
+2. 🗣 Commented on [#214](https://github.com/nginxinc/nginx-amplify-agent/issues/214) in [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent)
+3. 🗣 Commented on [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+4. 🗣 Commented on [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
