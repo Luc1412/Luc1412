@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/Pycord-Development/Pycord.Wavelink/pull/25) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
-2. ❗️ Closed issue [#214](https://github.com/nginxinc/nginx-amplify-agent/issues/214) in [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent)
-3. 🗣 Commented on [#214](https://github.com/nginxinc/nginx-amplify-agent/issues/214) in [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent)
-4. 🗣 Commented on [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+1. 🗣 Commented on [#25](https://github.com/Pycord-Development/Pycord.Wavelink/issues/25) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+2. 💪 Opened PR [#25](https://github.com/Pycord-Development/Pycord.Wavelink/pull/25) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+3. ❗️ Closed issue [#214](https://github.com/nginxinc/nginx-amplify-agent/issues/214) in [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent)
+4. 🗣 Commented on [#214](https://github.com/nginxinc/nginx-amplify-agent/issues/214) in [nginxinc/nginx-amplify-agent](https://github.com/nginxinc/nginx-amplify-agent)
 <!--END_SECTION:activity-->
 
 </details>
