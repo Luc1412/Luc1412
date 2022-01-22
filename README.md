@@ -66,8 +66,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Luc1412/Pycord.Wavelink/pull/1) in [Luc1412/Pycord.Wavelink](https://github.com/Luc1412/Pycord.Wavelink)
-2. 🗣 Commented on [#25](https://github.com/Pycord-Development/Pycord.Wavelink/issues/25) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+1. 🗣 Commented on [#190](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/190) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
+2. 💪 Opened PR [#1](https://github.com/Luc1412/Pycord.Wavelink/pull/1) in [Luc1412/Pycord.Wavelink](https://github.com/Luc1412/Pycord.Wavelink)
 3. 🗣 Commented on [#25](https://github.com/Pycord-Development/Pycord.Wavelink/issues/25) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
 4. 🗣 Commented on [#25](https://github.com/Pycord-Development/Pycord.Wavelink/issues/25) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
 <!--END_SECTION:activity-->
