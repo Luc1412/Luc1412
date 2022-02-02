@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Luc1412/pycord/pull/1) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
-2. 💪 Opened PR [#1](https://github.com/Luc1412/pycord/pull/1) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
-3. 🗣 Commented on [#190](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/190) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
-4. 🗣 Commented on [#25](https://github.com/Pycord-Development/Pycord.Wavelink/issues/25) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+1. 🗣 Commented on [#759](https://github.com/Pycord-Development/pycord/issues/759) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. 🎉 Merged PR [#1](https://github.com/Luc1412/pycord/pull/1) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+3. 💪 Opened PR [#1](https://github.com/Luc1412/pycord/pull/1) in [Luc1412/pycord](https://github.com/Luc1412/pycord)
+4. 🗣 Commented on [#190](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/190) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
