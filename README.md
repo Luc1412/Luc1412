@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#950](https://github.com/Pycord-Development/pycord/issues/950) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-2. 🗣 Commented on [#948](https://github.com/Pycord-Development/pycord/issues/948) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. ❗️ Opened issue [#949](https://github.com/Pycord-Development/pycord/issues/949) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-4. ❗️ Opened issue [#948](https://github.com/Pycord-Development/pycord/issues/948) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+1. 🗣 Commented on [#949](https://github.com/Pycord-Development/pycord/issues/949) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. ❗️ Opened issue [#950](https://github.com/Pycord-Development/pycord/issues/950) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+3. 🗣 Commented on [#948](https://github.com/Pycord-Development/pycord/issues/948) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. ❗️ Opened issue [#949](https://github.com/Pycord-Development/pycord/issues/949) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
 </details>
