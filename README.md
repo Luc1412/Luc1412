@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/project-cybersyn-game/project-cybersyn-game/pull/74) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-2. ❗️ Closed issue [#948](https://github.com/Pycord-Development/pycord/issues/948) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. 🗣 Commented on [#948](https://github.com/Pycord-Development/pycord/issues/948) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-4. ❗️ Opened issue [#959](https://github.com/Pycord-Development/pycord/issues/959) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+1. 🗣 Commented on [#974](https://github.com/Pycord-Development/pycord/issues/974) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+2. 💪 Opened PR [#74](https://github.com/project-cybersyn-game/project-cybersyn-game/pull/74) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+3. ❗️ Closed issue [#948](https://github.com/Pycord-Development/pycord/issues/948) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. 🗣 Commented on [#948](https://github.com/Pycord-Development/pycord/issues/948) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
 <!--END_SECTION:activity-->
 
 </details>
