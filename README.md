@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#52](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/52) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-2. 🎉 Merged PR [#74](https://github.com/project-cybersyn-game/project-cybersyn-game/pull/74) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-3. ❗️ Closed issue [#54](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/54) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-4. ❗️ Closed issue [#30](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/30) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+1. 🗣 Commented on [#4](https://github.com/Gorialis/discord.py-docker/issues/4) in [Gorialis/discord.py-docker](https://github.com/Gorialis/discord.py-docker)
+2. ❗️ Closed issue [#52](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/52) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+3. 🎉 Merged PR [#74](https://github.com/project-cybersyn-game/project-cybersyn-game/pull/74) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+4. ❗️ Closed issue [#54](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/54) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
 <!--END_SECTION:activity-->
 
 </details>
