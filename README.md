@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#79](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/79) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-2. ❗️ Opened issue [#78](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/78) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-3. ❗️ Opened issue [#77](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/77) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-4. ❗️ Opened issue [#76](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/76) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+1. ❗️ Closed issue [#79](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/79) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+2. ❗️ Opened issue [#79](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/79) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+3. ❗️ Opened issue [#78](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/78) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+4. ❗️ Opened issue [#77](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/77) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
 <!--END_SECTION:activity-->
 
 </details>
