@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7539](https://github.com/Rapptz/discord.py/issues/7539) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. ❗️ Opened issue [#7534](https://github.com/Rapptz/discord.py/issues/7534) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 💪 Opened PR [#7511](https://github.com/Rapptz/discord.py/pull/7511) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 🗣 Commented on [#7231](https://github.com/Rapptz/discord.py/issues/7231) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. 🗣 Commented on [#7539](https://github.com/Rapptz/discord.py/issues/7539) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. ❗️ Opened issue [#7539](https://github.com/Rapptz/discord.py/issues/7539) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. ❗️ Opened issue [#7534](https://github.com/Rapptz/discord.py/issues/7534) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 💪 Opened PR [#7511](https://github.com/Rapptz/discord.py/pull/7511) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
