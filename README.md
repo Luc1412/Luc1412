@@ -67,9 +67,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7534](https://github.com/Rapptz/discord.py/issues/7534) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. ❗️ Opened issue [#7549](https://github.com/Rapptz/discord.py/issues/7549) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 🗣 Commented on [#7539](https://github.com/Rapptz/discord.py/issues/7539) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. ❗️ Opened issue [#7539](https://github.com/Rapptz/discord.py/issues/7539) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 🗣 Commented on [#7534](https://github.com/Rapptz/discord.py/issues/7534) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. ❗️ Opened issue [#7549](https://github.com/Rapptz/discord.py/issues/7549) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 🗣 Commented on [#7539](https://github.com/Rapptz/discord.py/issues/7539) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
