@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#77](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/77) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-2. ❗️ Closed issue [#76](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/76) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-3. ❗️ Closed issue [#79](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/79) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-4. ❗️ Opened issue [#79](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/79) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+1. 🗣 Commented on [#7231](https://github.com/Rapptz/discord.py/issues/7231) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. ❗️ Closed issue [#77](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/77) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+3. ❗️ Closed issue [#76](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/76) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+4. ❗️ Closed issue [#79](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/79) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
 <!--END_SECTION:activity-->
 
 </details>
