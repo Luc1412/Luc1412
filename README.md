@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7511](https://github.com/Rapptz/discord.py/pull/7511) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🗣 Commented on [#7231](https://github.com/Rapptz/discord.py/issues/7231) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. ❗️ Closed issue [#77](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/77) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-4. ❗️ Closed issue [#76](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/76) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+1. ❗️ Opened issue [#7534](https://github.com/Rapptz/discord.py/issues/7534) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 💪 Opened PR [#7511](https://github.com/Rapptz/discord.py/pull/7511) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🗣 Commented on [#7231](https://github.com/Rapptz/discord.py/issues/7231) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. ❗️ Closed issue [#77](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/77) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
 <!--END_SECTION:activity-->
 
 </details>
