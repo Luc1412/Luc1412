@@ -66,9 +66,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7599](https://github.com/Rapptz/discord.py/issues/7599) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🗣 Commented on [#7549](https://github.com/Rapptz/discord.py/issues/7549) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 🗣 Commented on [#7534](https://github.com/Rapptz/discord.py/issues/7534) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. ❗️ Opened issue [#7600](https://github.com/Rapptz/discord.py/issues/7600) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. ❗️ Opened issue [#7599](https://github.com/Rapptz/discord.py/issues/7599) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🗣 Commented on [#7549](https://github.com/Rapptz/discord.py/issues/7549) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 4. 🗣 Commented on [#7534](https://github.com/Rapptz/discord.py/issues/7534) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
