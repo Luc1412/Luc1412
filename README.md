@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. 💪 Opened PR [#1](https://github.com/Luc1412/Red-DiscordBot/pull/1) in [Luc1412/Red-DiscordBot](https://github.com/Luc1412/Red-DiscordBot)
-3. ❗️ Closed issue [#68](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/68) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
-4. ❗️ Opened issue [#7675](https://github.com/Rapptz/discord.py/issues/7675) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. 🗣 Commented on [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. ❗️ Opened issue [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 💪 Opened PR [#1](https://github.com/Luc1412/Red-DiscordBot/pull/1) in [Luc1412/Red-DiscordBot](https://github.com/Luc1412/Red-DiscordBot)
+4. ❗️ Closed issue [#68](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/68) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
 <!--END_SECTION:activity-->
 
 </details>
