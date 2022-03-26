@@ -67,9 +67,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. ❗️ Opened issue [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 💪 Opened PR [#1](https://github.com/Luc1412/Red-DiscordBot/pull/1) in [Luc1412/Red-DiscordBot](https://github.com/Luc1412/Red-DiscordBot)
-4. ❗️ Closed issue [#68](https://github.com/project-cybersyn-game/project-cybersyn-game/issues/68) in [project-cybersyn-game/project-cybersyn-game](https://github.com/project-cybersyn-game/project-cybersyn-game)
+2. 🗣 Commented on [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. ❗️ Opened issue [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 💪 Opened PR [#1](https://github.com/Luc1412/Red-DiscordBot/pull/1) in [Luc1412/Red-DiscordBot](https://github.com/Luc1412/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
