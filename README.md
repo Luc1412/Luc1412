@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🗣 Commented on [#7539](https://github.com/Rapptz/discord.py/issues/7539) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 2. 🗣 Commented on [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. ❗️ Opened issue [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 💪 Opened PR [#1](https://github.com/Luc1412/Red-DiscordBot/pull/1) in [Luc1412/Red-DiscordBot](https://github.com/Luc1412/Red-DiscordBot)
+3. 🗣 Commented on [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. ❗️ Opened issue [#4688](https://github.com/discord/discord-api-docs/issues/4688) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 </details>
