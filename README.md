@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-2. ❗️ Opened issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-3. ❗️ Opened issue [#5672](https://github.com/Cog-Creators/Red-DiscordBot/issues/5672) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-4. ❗️ Opened issue [#197](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/197) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
+1. ❗️ Closed issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+2. 🗣 Commented on [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+3. 🗣 Commented on [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+4. ❗️ Opened issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
