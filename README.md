@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-2. 🗣 Commented on [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+1. ❗️ Opened issue [#2](https://github.com/advaith1/rollouts/issues/2) in [advaith1/rollouts](https://github.com/advaith1/rollouts)
+2. ❗️ Closed issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 3. 🗣 Commented on [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-4. ❗️ Opened issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+4. 🗣 Commented on [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
