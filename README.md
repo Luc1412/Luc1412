@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
-2. ❗️ Opened issue [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
-3. ❗️ Opened issue [#2](https://github.com/advaith1/rollouts/issues/2) in [advaith1/rollouts](https://github.com/advaith1/rollouts)
-4. ❗️ Closed issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+1. 🎉 Merged PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
+2. 💪 Opened PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
+3. 🗣 Commented on [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
+4. ❗️ Opened issue [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
 <!--END_SECTION:activity-->
 
 </details>
