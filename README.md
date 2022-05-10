@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/advaith1/rollouts/issues/2) in [advaith1/rollouts](https://github.com/advaith1/rollouts)
-2. ❗️ Closed issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-3. 🗣 Commented on [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-4. 🗣 Commented on [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+1. 🗣 Commented on [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
+2. ❗️ Opened issue [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
+3. ❗️ Opened issue [#2](https://github.com/advaith1/rollouts/issues/2) in [advaith1/rollouts](https://github.com/advaith1/rollouts)
+4. ❗️ Closed issue [#153](https://github.com/PythonistaGuild/Wavelink/issues/153) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
