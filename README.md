@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
-2. 💪 Opened PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
-3. 🗣 Commented on [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
-4. ❗️ Opened issue [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
+1. 💪 Opened PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
+2. 🎉 Merged PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
+3. 💪 Opened PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
+4. 🗣 Commented on [#959](https://github.com/python-attrs/attrs/issues/959) in [python-attrs/attrs](https://github.com/python-attrs/attrs)
 <!--END_SECTION:activity-->
 
 </details>
