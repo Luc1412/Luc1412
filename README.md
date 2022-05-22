@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
-2. 💪 Opened PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
-3. 🎉 Merged PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
-4. 💪 Opened PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
+1. ❗️ Opened issue [#163](https://github.com/Terbau/fortnitepy/issues/163) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+2. 🎉 Merged PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
+3. 💪 Opened PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
+4. 🎉 Merged PR [#1](https://github.com/Luc1412/attrs/pull/1) in [Luc1412/attrs](https://github.com/Luc1412/attrs)
 <!--END_SECTION:activity-->
 
 </details>
