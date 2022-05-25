@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#167](https://github.com/Terbau/fortnitepy/issues/167) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-2. ❗️ Opened issue [#167](https://github.com/Terbau/fortnitepy/issues/167) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-3. ❗️ Opened issue [#166](https://github.com/Terbau/fortnitepy/issues/166) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-4. ❗️ Opened issue [#165](https://github.com/Terbau/fortnitepy/issues/165) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+1. ❗️ Reopened issue [#167](https://github.com/Terbau/fortnitepy/issues/167) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+2. 🗣 Commented on [#167](https://github.com/Terbau/fortnitepy/issues/167) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+3. ❗️ Opened issue [#170](https://github.com/Terbau/fortnitepy/issues/170) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+4. ❗️ Opened issue [#169](https://github.com/Terbau/fortnitepy/issues/169) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
 <!--END_SECTION:activity-->
 
 </details>
