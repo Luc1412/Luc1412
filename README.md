@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Fortnite-API/py-wrapper/issues/11) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#195](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/195) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
-3. ❗️ Opened issue [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-4. 🎉 Merged PR [#8](https://github.com/Fortnite-API/py-wrapper/pull/8) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 💪 Opened PR [#181](https://github.com/praw-dev/asyncpraw/pull/181) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
+2. 🗣 Commented on [#11](https://github.com/Fortnite-API/py-wrapper/issues/11) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🗣 Commented on [#195](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/195) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
+4. ❗️ Opened issue [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
