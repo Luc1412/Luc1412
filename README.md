@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8196](https://github.com/Rapptz/discord.py/pull/8196) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. ❗️ Opened issue [#165](https://github.com/PythonistaGuild/Wavelink/issues/165) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-3. 💪 Opened PR [#181](https://github.com/praw-dev/asyncpraw/pull/181) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
-4. 🗣 Commented on [#11](https://github.com/Fortnite-API/py-wrapper/issues/11) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 💪 Opened PR [#8213](https://github.com/Rapptz/discord.py/pull/8213) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 💪 Opened PR [#8196](https://github.com/Rapptz/discord.py/pull/8196) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. ❗️ Opened issue [#165](https://github.com/PythonistaGuild/Wavelink/issues/165) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+4. 💪 Opened PR [#181](https://github.com/praw-dev/asyncpraw/pull/181) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
 <!--END_SECTION:activity-->
 
 </details>
