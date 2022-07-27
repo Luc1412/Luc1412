@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8270](https://github.com/Rapptz/discord.py/pull/8270) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 💪 Opened PR [#8213](https://github.com/Rapptz/discord.py/pull/8213) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 💪 Opened PR [#8196](https://github.com/Rapptz/discord.py/pull/8196) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. ❗️ Opened issue [#165](https://github.com/PythonistaGuild/Wavelink/issues/165) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+1. ❗️ Opened issue [#314](https://github.com/roman-right/beanie/issues/314) in [roman-right/beanie](https://github.com/roman-right/beanie)
+2. 🗣 Commented on [#312](https://github.com/roman-right/beanie/issues/312) in [roman-right/beanie](https://github.com/roman-right/beanie)
+3. ❗️ Opened issue [#312](https://github.com/roman-right/beanie/issues/312) in [roman-right/beanie](https://github.com/roman-right/beanie)
+4. 💪 Opened PR [#8270](https://github.com/Rapptz/discord.py/pull/8270) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
