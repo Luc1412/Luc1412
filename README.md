@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#320](https://github.com/roman-right/beanie/issues/320) in [roman-right/beanie](https://github.com/roman-right/beanie)
-2. ❗️ Opened issue [#316](https://github.com/roman-right/beanie/issues/316) in [roman-right/beanie](https://github.com/roman-right/beanie)
-3. 🗣 Commented on [#166](https://github.com/Terbau/fortnitepy/issues/166) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-4. ❗️ Opened issue [#314](https://github.com/roman-right/beanie/issues/314) in [roman-right/beanie](https://github.com/roman-right/beanie)
+1. 🗣 Commented on [#320](https://github.com/roman-right/beanie/issues/320) in [roman-right/beanie](https://github.com/roman-right/beanie)
+2. ❗️ Opened issue [#320](https://github.com/roman-right/beanie/issues/320) in [roman-right/beanie](https://github.com/roman-right/beanie)
+3. ❗️ Opened issue [#316](https://github.com/roman-right/beanie/issues/316) in [roman-right/beanie](https://github.com/roman-right/beanie)
+4. 🗣 Commented on [#166](https://github.com/Terbau/fortnitepy/issues/166) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
 <!--END_SECTION:activity-->
 
 </details>
