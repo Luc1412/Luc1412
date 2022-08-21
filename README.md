@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
-2. ❗️ Opened issue [#2205](https://github.com/mono/SkiaSharp/issues/2205) in [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
-3. 🗣 Commented on [#320](https://github.com/roman-right/beanie/issues/320) in [roman-right/beanie](https://github.com/roman-right/beanie)
-4. ❗️ Opened issue [#320](https://github.com/roman-right/beanie/issues/320) in [roman-right/beanie](https://github.com/roman-right/beanie)
+1. 🗣 Commented on [#12](https://github.com/peterhanania/Discord-Package/issues/12) in [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package)
+2. ❗️ Opened issue [#12](https://github.com/peterhanania/Discord-Package/issues/12) in [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package)
+3. ❗️ Closed issue [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
+4. ❗️ Opened issue [#2205](https://github.com/mono/SkiaSharp/issues/2205) in [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
 <!--END_SECTION:activity-->
 
 </details>
