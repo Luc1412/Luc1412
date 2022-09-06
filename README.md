@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/peterhanania/Discord-Package/issues/12) in [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package)
-2. ❗️ Opened issue [#12](https://github.com/peterhanania/Discord-Package/issues/12) in [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package)
-3. ❗️ Closed issue [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
-4. ❗️ Opened issue [#2205](https://github.com/mono/SkiaSharp/issues/2205) in [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
+1. ❗️ Opened issue [#1](https://github.com/InspirerHWR2020/App/issues/1) in [InspirerHWR2020/App](https://github.com/InspirerHWR2020/App)
+2. 🗣 Commented on [#12](https://github.com/peterhanania/Discord-Package/issues/12) in [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package)
+3. ❗️ Opened issue [#12](https://github.com/peterhanania/Discord-Package/issues/12) in [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package)
+4. ❗️ Closed issue [#15](https://github.com/Pycord-Development/Pycord.Wavelink/issues/15) in [Pycord-Development/Pycord.Wavelink](https://github.com/Pycord-Development/Pycord.Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
