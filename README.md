@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/Fortnite-API/py-wrapper/pull/12) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#12](https://github.com/Fortnite-API/py-wrapper/issues/12) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. ❗️ Opened issue [#1](https://github.com/InspirerHWR2020/App/issues/1) in [InspirerHWR2020/App](https://github.com/InspirerHWR2020/App)
-4. 🗣 Commented on [#12](https://github.com/peterhanania/Discord-Package/issues/12) in [peterhanania/Discord-Package](https://github.com/peterhanania/Discord-Package)
+1. ❗️ Closed issue [#3](https://github.com/Fortnite-API/py-wrapper/issues/3) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🗣 Commented on [#3](https://github.com/Fortnite-API/py-wrapper/issues/3) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. ❌ Closed PR [#12](https://github.com/Fortnite-API/py-wrapper/pull/12) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🗣 Commented on [#12](https://github.com/Fortnite-API/py-wrapper/issues/12) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
