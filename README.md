@@ -67,9 +67,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#203](https://github.com/praw-dev/asyncpraw/issues/203) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
-2. ❗️ Opened issue [#203](https://github.com/praw-dev/asyncpraw/issues/203) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
-3. ❗️ Closed issue [#2205](https://github.com/mono/SkiaSharp/issues/2205) in [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
-4. 🗣 Commented on [#2205](https://github.com/mono/SkiaSharp/issues/2205) in [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
+2. 🗣 Commented on [#203](https://github.com/praw-dev/asyncpraw/issues/203) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
+3. ❗️ Opened issue [#203](https://github.com/praw-dev/asyncpraw/issues/203) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
+4. ❗️ Closed issue [#2205](https://github.com/mono/SkiaSharp/issues/2205) in [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
 <!--END_SECTION:activity-->
 
 </details>
