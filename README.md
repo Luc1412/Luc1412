@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/1) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-2. 🗣 Commented on [#203](https://github.com/praw-dev/asyncpraw/issues/203) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
+1. 🎉 Merged PR [#2](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/2) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+2. 🎉 Merged PR [#1](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/1) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 3. 🗣 Commented on [#203](https://github.com/praw-dev/asyncpraw/issues/203) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
-4. ❗️ Opened issue [#203](https://github.com/praw-dev/asyncpraw/issues/203) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
+4. 🗣 Commented on [#203](https://github.com/praw-dev/asyncpraw/issues/203) in [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw)
 <!--END_SECTION:activity-->
 
 </details>
