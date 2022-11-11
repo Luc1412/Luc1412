@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-2. ❗️ Opened issue [#392](https://github.com/devopshq/artifactory/issues/392) in [devopshq/artifactory](https://github.com/devopshq/artifactory)
-3. 🎉 Merged PR [#4](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/4) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 🎉 Merged PR [#3](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/3) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🗣 Commented on [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+2. ❗️ Opened issue [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+3. ❗️ Opened issue [#392](https://github.com/devopshq/artifactory/issues/392) in [devopshq/artifactory](https://github.com/devopshq/artifactory)
+4. 🎉 Merged PR [#4](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/4) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
