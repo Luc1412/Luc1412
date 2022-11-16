@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+1. ❗️ Opened issue [#421](https://github.com/roman-right/beanie/issues/421) in [roman-right/beanie](https://github.com/roman-right/beanie)
 2. 🗣 Commented on [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-3. ❗️ Opened issue [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-4. ❗️ Opened issue [#392](https://github.com/devopshq/artifactory/issues/392) in [devopshq/artifactory](https://github.com/devopshq/artifactory)
+3. 🗣 Commented on [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+4. ❗️ Opened issue [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
