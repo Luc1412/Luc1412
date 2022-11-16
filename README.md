@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#421](https://github.com/roman-right/beanie/issues/421) in [roman-right/beanie](https://github.com/roman-right/beanie)
-2. 🗣 Commented on [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+1. 💪 Opened PR [#1](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin/pull/1) in [Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin)
+2. ❗️ Opened issue [#421](https://github.com/roman-right/beanie/issues/421) in [roman-right/beanie](https://github.com/roman-right/beanie)
 3. 🗣 Commented on [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-4. ❗️ Opened issue [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+4. 🗣 Commented on [#5901](https://github.com/Cog-Creators/Red-DiscordBot/issues/5901) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
