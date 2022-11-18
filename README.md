@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
-2. ❌ Closed PR [#1](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin/pull/1) in [Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin)
-3. 💪 Opened PR [#1](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin/pull/1) in [Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin)
-4. ❗️ Opened issue [#421](https://github.com/roman-right/beanie/issues/421) in [roman-right/beanie](https://github.com/roman-right/beanie)
+1. 🗣 Commented on [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
+2. ❗️ Opened issue [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
+3. ❌ Closed PR [#1](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin/pull/1) in [Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin)
+4. 💪 Opened PR [#1](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin/pull/1) in [Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin)
 <!--END_SECTION:activity-->
 
 </details>
