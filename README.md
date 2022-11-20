@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
+1. 🗣 Commented on [#421](https://github.com/roman-right/beanie/issues/421) in [roman-right/beanie](https://github.com/roman-right/beanie)
 2. 🗣 Commented on [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
-3. ❗️ Opened issue [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
-4. ❌ Closed PR [#1](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin/pull/1) in [Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin](https://github.com/Luc1412/Aufgaben-TIT20A-Web-HWR-Berlin)
+3. 🗣 Commented on [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
+4. ❗️ Opened issue [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
 <!--END_SECTION:activity-->
 
 </details>
