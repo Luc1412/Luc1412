@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#421](https://github.com/roman-right/beanie/issues/421) in [roman-right/beanie](https://github.com/roman-right/beanie)
-2. 🗣 Commented on [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
-3. 🗣 Commented on [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
-4. ❗️ Opened issue [#422](https://github.com/roman-right/beanie/issues/422) in [roman-right/beanie](https://github.com/roman-right/beanie)
+1. 🎉 Merged PR [#8](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/8) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+2. 💪 Opened PR [#8](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/8) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. 🎉 Merged PR [#7](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/7) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. 💪 Opened PR [#7](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/7) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
