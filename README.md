@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/8) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-2. 💪 Opened PR [#8](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/8) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. 🎉 Merged PR [#7](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/7) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 💪 Opened PR [#7](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/7) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🎉 Merged PR [#10](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/10) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+2. 💪 Opened PR [#10](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/10) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. 🎉 Merged PR [#9](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/9) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. 💪 Opened PR [#9](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/9) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
