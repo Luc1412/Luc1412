@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Fortnite-API/py-wrapper/issues/13) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#13](https://github.com/Fortnite-API/py-wrapper/issues/13) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🎉 Merged PR [#11](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/11) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 💪 Opened PR [#11](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/11) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. ❗️ Closed issue [#29](https://github.com/InspirerHWR2020/App/issues/29) in [InspirerHWR2020/App](https://github.com/InspirerHWR2020/App)
+2. ❗️ Closed issue [#23](https://github.com/InspirerHWR2020/App/issues/23) in [InspirerHWR2020/App](https://github.com/InspirerHWR2020/App)
+3. 🗣 Commented on [#13](https://github.com/Fortnite-API/py-wrapper/issues/13) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🗣 Commented on [#13](https://github.com/Fortnite-API/py-wrapper/issues/13) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
