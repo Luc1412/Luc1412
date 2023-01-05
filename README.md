@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Fortnite-API/py-wrapper/pull/14) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. ❗️ Closed issue [#9](https://github.com/Fortnite-API/py-wrapper/issues/9) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. ❗️ Closed issue [#29](https://github.com/InspirerHWR2020/App/issues/29) in [InspirerHWR2020/App](https://github.com/InspirerHWR2020/App)
-4. ❗️ Closed issue [#23](https://github.com/InspirerHWR2020/App/issues/23) in [InspirerHWR2020/App](https://github.com/InspirerHWR2020/App)
+1. ❗️ Opened issue [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
+2. 🗣 Commented on [#320](https://github.com/roman-right/beanie/issues/320) in [roman-right/beanie](https://github.com/roman-right/beanie)
+3. 🎉 Merged PR [#14](https://github.com/Fortnite-API/py-wrapper/pull/14) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. ❗️ Closed issue [#9](https://github.com/Fortnite-API/py-wrapper/issues/9) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
