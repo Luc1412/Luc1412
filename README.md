@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2541](https://github.com/redis/redis-py/issues/2541) in [redis/redis-py](https://github.com/redis/redis-py)
-2. ❗️ Opened issue [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
-3. 🗣 Commented on [#320](https://github.com/roman-right/beanie/issues/320) in [roman-right/beanie](https://github.com/roman-right/beanie)
-4. 🎉 Merged PR [#14](https://github.com/Fortnite-API/py-wrapper/pull/14) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. ❗️ Opened issue [#175](https://github.com/Terbau/fortnitepy/issues/175) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+2. ❗️ Opened issue [#2541](https://github.com/redis/redis-py/issues/2541) in [redis/redis-py](https://github.com/redis/redis-py)
+3. ❗️ Opened issue [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
+4. 🗣 Commented on [#320](https://github.com/roman-right/beanie/issues/320) in [roman-right/beanie](https://github.com/roman-right/beanie)
 <!--END_SECTION:activity-->
 
 </details>
