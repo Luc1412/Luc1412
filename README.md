@@ -67,9 +67,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
-2. ❗️ Opened issue [#5890](https://github.com/discord/discord-api-docs/issues/5890) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. ❗️ Opened issue [#5976](https://github.com/Cog-Creators/Red-DiscordBot/issues/5976) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-4. 💪 Opened PR [#77](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/pull/77) in [LeleDerGrasshalmi/FortniteEndpointsDocumentation](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation)
+2. 🗣 Commented on [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
+3. 🗣 Commented on [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
+4. ❗️ Opened issue [#5890](https://github.com/discord/discord-api-docs/issues/5890) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 </details>
