@@ -67,8 +67,8 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#59](https://github.com/PhasecoreX/docker-red-discordbot/issues/59) in [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot)
-2. 🗣 Commented on [#486](https://github.com/roman-right/beanie/issues/486) in [roman-right/beanie](https://github.com/roman-right/beanie)
-3. 🗣 Commented on [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
+2. 🗣 Commented on [#59](https://github.com/PhasecoreX/docker-red-discordbot/issues/59) in [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot)
+3. 🗣 Commented on [#486](https://github.com/roman-right/beanie/issues/486) in [roman-right/beanie](https://github.com/roman-right/beanie)
 4. 🗣 Commented on [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
 <!--END_SECTION:activity-->
 
