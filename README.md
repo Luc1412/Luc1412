@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/PhasecoreX/docker-red-discordbot/issues/59) in [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot)
+1. ❗️ Opened issue [#182](https://github.com/Terbau/fortnitepy/issues/182) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
 2. 🗣 Commented on [#59](https://github.com/PhasecoreX/docker-red-discordbot/issues/59) in [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot)
-3. 🗣 Commented on [#486](https://github.com/roman-right/beanie/issues/486) in [roman-right/beanie](https://github.com/roman-right/beanie)
-4. 🗣 Commented on [#470](https://github.com/roman-right/beanie/issues/470) in [roman-right/beanie](https://github.com/roman-right/beanie)
+3. 🗣 Commented on [#59](https://github.com/PhasecoreX/docker-red-discordbot/issues/59) in [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot)
+4. 🗣 Commented on [#486](https://github.com/roman-right/beanie/issues/486) in [roman-right/beanie](https://github.com/roman-right/beanie)
 <!--END_SECTION:activity-->
 
 </details>
