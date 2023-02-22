@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/12) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-2. 💪 Opened PR [#12](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/12) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. ❗️ Opened issue [#388](https://github.com/horazont/aioxmpp/issues/388) in [horazont/aioxmpp](https://github.com/horazont/aioxmpp)
-4. ❗️ Opened issue [#182](https://github.com/Terbau/fortnitepy/issues/182) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+1. 🗣 Commented on [#5992](https://github.com/Cog-Creators/Red-DiscordBot/issues/5992) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+2. 🎉 Merged PR [#12](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/12) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. 💪 Opened PR [#12](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/12) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. ❗️ Opened issue [#388](https://github.com/horazont/aioxmpp/issues/388) in [horazont/aioxmpp](https://github.com/horazont/aioxmpp)
 <!--END_SECTION:activity-->
 
 </details>
