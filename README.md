@@ -67,9 +67,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5992](https://github.com/Cog-Creators/Red-DiscordBot/issues/5992) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-2. ❗️ Opened issue [#183](https://github.com/Terbau/fortnitepy/issues/183) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-3. 🗣 Commented on [#5992](https://github.com/Cog-Creators/Red-DiscordBot/issues/5992) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-4. 🎉 Merged PR [#12](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/12) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+2. 🗣 Commented on [#5992](https://github.com/Cog-Creators/Red-DiscordBot/issues/5992) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+3. ❗️ Opened issue [#183](https://github.com/Terbau/fortnitepy/issues/183) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+4. 🗣 Commented on [#5992](https://github.com/Cog-Creators/Red-DiscordBot/issues/5992) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
