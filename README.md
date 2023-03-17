@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-2. ❗️ Opened issue [#185](https://github.com/Terbau/fortnitepy/issues/185) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-3. ❗️ Opened issue [#184](https://github.com/Terbau/fortnitepy/issues/184) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
-4. 🗣 Commented on [#5992](https://github.com/Cog-Creators/Red-DiscordBot/issues/5992) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+1. ❗️ Closed issue [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+2. 🗣 Commented on [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+3. 🗣 Commented on [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+4. ❗️ Opened issue [#185](https://github.com/Terbau/fortnitepy/issues/185) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
 <!--END_SECTION:activity-->
 
 </details>
