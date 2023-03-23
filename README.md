@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-2. 🗣 Commented on [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-3. 🗣 Commented on [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-4. ❗️ Opened issue [#185](https://github.com/Terbau/fortnitepy/issues/185) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+1. 🎉 Merged PR [#13](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/13) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+2. 💪 Opened PR [#13](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/13) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. ❗️ Closed issue [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+4. 🗣 Commented on [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
