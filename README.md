@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/13) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-2. 💪 Opened PR [#13](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/13) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. ❗️ Closed issue [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
-4. 🗣 Commented on [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
+1. ❗️ Opened issue [#188](https://github.com/Terbau/fortnitepy/issues/188) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
+2. 🎉 Merged PR [#13](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/13) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. 💪 Opened PR [#13](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/13) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. ❗️ Closed issue [#163](https://github.com/PythonistaGuild/Wavelink/issues/163) in [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
