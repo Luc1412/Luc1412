@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/FlutterQuotes/QuotesApp/issues/5) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
-2. 🎉 Merged PR [#18](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/18) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. 💪 Opened PR [#18](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/18) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. ❌ Closed PR [#17](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/17) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🎉 Merged PR [#11](https://github.com/FlutterQuotes/QuotesApp/pull/11) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
+2. 💪 Opened PR [#11](https://github.com/FlutterQuotes/QuotesApp/pull/11) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
+3. ❗️ Opened issue [#5](https://github.com/FlutterQuotes/QuotesApp/issues/5) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
+4. 🎉 Merged PR [#18](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/18) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
