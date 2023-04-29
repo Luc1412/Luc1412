@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/FlutterQuotes/QuotesApp/pull/15) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
-2. 💪 Opened PR [#15](https://github.com/FlutterQuotes/QuotesApp/pull/15) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
-3. 🎉 Merged PR [#11](https://github.com/FlutterQuotes/QuotesApp/pull/11) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
-4. 💪 Opened PR [#11](https://github.com/FlutterQuotes/QuotesApp/pull/11) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
+1. 🎉 Merged PR [#18](https://github.com/FlutterQuotes/QuotesApp/pull/18) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
+2. 💪 Opened PR [#18](https://github.com/FlutterQuotes/QuotesApp/pull/18) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
+3. 🎉 Merged PR [#17](https://github.com/FlutterQuotes/QuotesApp/pull/17) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
+4. 🎉 Merged PR [#15](https://github.com/FlutterQuotes/QuotesApp/pull/15) in [FlutterQuotes/QuotesApp](https://github.com/FlutterQuotes/QuotesApp)
 <!--END_SECTION:activity-->
 
 </details>
