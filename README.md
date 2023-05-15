@@ -67,9 +67,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
-2. ❗️ Opened issue [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
-3. 🎉 Merged PR [#3](https://github.com/Luc1412/Wavelink/pull/3) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
-4. 💪 Opened PR [#3](https://github.com/Luc1412/Wavelink/pull/3) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
+2. 🗣 Commented on [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
+3. ❗️ Opened issue [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
+4. 🎉 Merged PR [#3](https://github.com/Luc1412/Wavelink/pull/3) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
