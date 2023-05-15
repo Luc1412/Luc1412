@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
-2. 🎉 Merged PR [#3](https://github.com/Luc1412/Wavelink/pull/3) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
-3. 💪 Opened PR [#3](https://github.com/Luc1412/Wavelink/pull/3) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
-4. 🎉 Merged PR [#1](https://github.com/Luc1412/Wavelink/pull/1) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
+1. 🗣 Commented on [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
+2. ❗️ Opened issue [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
+3. 🎉 Merged PR [#3](https://github.com/Luc1412/Wavelink/pull/3) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
+4. 💪 Opened PR [#3](https://github.com/Luc1412/Wavelink/pull/3) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
 <!--END_SECTION:activity-->
 
 </details>
