@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
+1. 🗣 Commented on [#189](https://github.com/Terbau/fortnitepy/issues/189) in [Terbau/fortnitepy](https://github.com/Terbau/fortnitepy)
 2. 🗣 Commented on [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
-3. ❗️ Opened issue [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
-4. 🎉 Merged PR [#3](https://github.com/Luc1412/Wavelink/pull/3) in [Luc1412/Wavelink](https://github.com/Luc1412/Wavelink)
+3. 🗣 Commented on [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
+4. ❗️ Opened issue [#144](https://github.com/regebro/tzlocal/issues/144) in [regebro/tzlocal](https://github.com/regebro/tzlocal)
 <!--END_SECTION:activity-->
 
 </details>
