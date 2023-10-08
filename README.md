@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9589](https://github.com/Rapptz/discord.py/issues/9589) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🗣 Commented on [#651](https://github.com/roman-right/beanie/issues/651#issuecomment-1726546910) in [roman-right/beanie](https://github.com/roman-right/beanie)
-3. 🗣 Commented on [#654](https://github.com/roman-right/beanie/issues/654#issuecomment-1712651776) in [roman-right/beanie](https://github.com/roman-right/beanie)
-4. 🎉 Merged PR [#36](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/36) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🗣 Commented on [#9453](https://github.com/Rapptz/discord.py/pull/9453#issuecomment-1752183732) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 🗣 Commented on [#6477](https://github.com/discord/discord-api-docs/pull/6477#issuecomment-1752181213) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 🗣 Commented on [#9453](https://github.com/Rapptz/discord.py/pull/9453#issuecomment-1752180514) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. ❗ Opened issue [#9589](https://github.com/Rapptz/discord.py/issues/9589) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
