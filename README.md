@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9453](https://github.com/Rapptz/discord.py/pull/9453#issuecomment-1752183732) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🗣 Commented on [#6477](https://github.com/discord/discord-api-docs/pull/6477#issuecomment-1752181213) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🗣 Commented on [#9453](https://github.com/Rapptz/discord.py/pull/9453#issuecomment-1752180514) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. ❗ Opened issue [#9589](https://github.com/Rapptz/discord.py/issues/9589) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. 🗣 Commented on [#6477](https://github.com/discord/discord-api-docs/pull/6477#issuecomment-1755942912) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#9453](https://github.com/Rapptz/discord.py/pull/9453#issuecomment-1752183732) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🗣 Commented on [#6477](https://github.com/discord/discord-api-docs/pull/6477#issuecomment-1752181213) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🗣 Commented on [#9453](https://github.com/Rapptz/discord.py/pull/9453#issuecomment-1752180514) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
