@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Fortnite-DE/Utils/pull/1) in [Fortnite-DE/Utils](https://github.com/Fortnite-DE/Utils)
-2. 💪 Opened PR [#1](https://github.com/Fortnite-DE/Utils/pull/1) in [Fortnite-DE/Utils](https://github.com/Fortnite-DE/Utils)
-3. 🗣 Commented on [#6477](https://github.com/discord/discord-api-docs/pull/6477#issuecomment-1755942912) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 🗣 Commented on [#9453](https://github.com/Rapptz/discord.py/pull/9453#issuecomment-1752183732) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. 🎉 Merged PR [#2](https://github.com/Fortnite-DE/Utils/pull/2) in [Fortnite-DE/Utils](https://github.com/Fortnite-DE/Utils)
+2. 💪 Opened PR [#2](https://github.com/Fortnite-DE/Utils/pull/2) in [Fortnite-DE/Utils](https://github.com/Fortnite-DE/Utils)
+3. 🎉 Merged PR [#1](https://github.com/Fortnite-DE/Utils/pull/1) in [Fortnite-DE/Utils](https://github.com/Fortnite-DE/Utils)
+4. 💪 Opened PR [#1](https://github.com/Fortnite-DE/Utils/pull/1) in [Fortnite-DE/Utils](https://github.com/Fortnite-DE/Utils)
 <!--END_SECTION:activity-->
 
 </details>
