@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#275](https://github.com/tiredofit/docker-db-backup/issues/275) in [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup)
-2. 🎉 Merged PR [#50](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/50) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. 💪 Opened PR [#50](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/50) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 🎉 Merged PR [#49](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/49) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🗣 Commented on [#275](https://github.com/tiredofit/docker-db-backup/issues/275#issuecomment-1807096095) in [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup)
+2. ❗ Opened issue [#275](https://github.com/tiredofit/docker-db-backup/issues/275) in [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup)
+3. 🎉 Merged PR [#50](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/50) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. 💪 Opened PR [#50](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/50) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
