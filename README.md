@@ -67,9 +67,9 @@
   
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Add support for new shop layouts](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.5.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🚀 Published release [Shop Layout support](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.5.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🔒 Closed issue [#18](https://github.com/Fortnite-API/py-wrapper/issues/18) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🗣 Commented on [#18](https://github.com/Fortnite-API/py-wrapper/issues/18#issuecomment-1818350276) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🚀 Published release [Add support for new shop layouts](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.5.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🚀 Published release [Add support for new shop layouts](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.5.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🚀 Published release [Shop Layout support](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.5.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
