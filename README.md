@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#18](https://github.com/Fortnite-API/py-wrapper/issues/18) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#18](https://github.com/Fortnite-API/py-wrapper/issues/18#issuecomment-1818350276) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🗣 Commented on [#275](https://github.com/tiredofit/docker-db-backup/issues/275#issuecomment-1807707850) in [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup)
-4. 🔒 Closed issue [#275](https://github.com/tiredofit/docker-db-backup/issues/275) in [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup)
+1. 🚀 Published release [Add support for new shop layouts](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.5.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🚀 Published release [Shop Layout support](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.5.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🔒 Closed issue [#18](https://github.com/Fortnite-API/py-wrapper/issues/18) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🗣 Commented on [#18](https://github.com/Fortnite-API/py-wrapper/issues/18#issuecomment-1818350276) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
