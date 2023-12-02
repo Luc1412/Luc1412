@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Fortnite-API/py-wrapper/issues/15#issuecomment-1829848633) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🔒 Closed issue [#15](https://github.com/Fortnite-API/py-wrapper/issues/15) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🗣 Commented on [#16](https://github.com/Fortnite-API/py-wrapper/issues/16#issuecomment-1829842547) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🚀 Published release [Add support for new shop layouts](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.5.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 💪 Opened PR [#52](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/52) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+2. 🎉 Merged PR [#51](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/51) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. 🗣 Commented on [#15](https://github.com/Fortnite-API/py-wrapper/issues/15#issuecomment-1829848633) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🔒 Closed issue [#15](https://github.com/Fortnite-API/py-wrapper/issues/15) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
