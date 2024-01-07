@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Add support for new cosmetic types](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.0) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 💪 Opened PR [#57](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/57) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. 🎉 Merged PR [#56](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/56) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 💪 Opened PR [#56](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/56) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🚀 Published release [Fix BrCosmetic](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.1) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🚀 Published release [Add support for new cosmetic types](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.0) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 💪 Opened PR [#57](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/57) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. 🎉 Merged PR [#56](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/56) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
