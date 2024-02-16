@@ -5,7 +5,7 @@
 
 ## I'm a Software Engeneer!
 
-- 🔭 I’m currently working on [Discord Bots][topgg].
+- 🔭 I’m currently working on [Discord Bots][https://discord.com/application-directory/444203099331231746].
 - 🌱 I’m currently learning how to scale and cluster applications.
 - 💼 I’m currently working at the Free University of Berlin,
 - 🥅 2021 Goals: Become more advanced in web front- and (Python) backend
@@ -82,7 +82,6 @@
 </details>
 
 [website]: https://Luc1412.de
-[topgg]: https://top.gg/user/262511457948663809
 [twitter]: https://twitter.com/luc141201
 [linkedin]: https://www.linkedin.com/in/lucas-hardt-06175b177/
 [instagram]: https://www.instagram.com/lv.cas_/
