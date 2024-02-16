@@ -5,10 +5,10 @@
 
 ## I'm a Software Engeneer!
 
-- 🔭 I’m currently working on [Discord Bots][https://discord.com/application-directory/444203099331231746].
+- 🔭 I’m currently working on [Discord Bots](https://discord.com/application-directory/444203099331231746).
 - 🌱 I’m currently learning how to scale and cluster applications.
-- 💼 I’m currently working at the Free University of Berlin,
-- 🥅 2021 Goals: Become more advanced in web front- and (Python) backend
+- 💼 I’m currently working at the Free University of Berlin.
+- 🥅 2024 Goals: Become more advanced in web front- and (Python) backend
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.luc1412.vercel.app/api/spotify" alt="Luc1412 Spotify Playing" width="350" />](https://open.spotify.com/user/8s2b4vb43lo6dpah7fgitatrw)
