@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Luc1412.de&style=for-the-badge&url=https%3A%2F%2Fluc1412.de)](https://luc1412.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luc141201?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluc1412&screen_name=luc141201)
 
-## I'm a Software Engeneer!
+## I'm a Software Engineer!
 
 - 🔭 I’m currently working on [Discord Bots](https://discord.com/application-directory/444203099331231746).
 - 🌱 I’m currently learning how to scale and cluster applications.
