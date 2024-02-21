@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/76) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-2. 💪 Opened PR [#76](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/76) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. 🎉 Merged PR [#75](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/75) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 💪 Opened PR [#75](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/75) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🔒 Closed issue [#16](https://github.com/Fortnite-API/py-wrapper/issues/16) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🎉 Merged PR [#76](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/76) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. 💪 Opened PR [#76](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/76) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. 🎉 Merged PR [#75](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/75) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
