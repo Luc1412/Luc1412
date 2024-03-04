@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/eduMFA/eduMFA/pull/13) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#11](https://github.com/eduMFA/eduMFA/pull/11) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🔒 Closed issue [#16](https://github.com/Fortnite-API/py-wrapper/issues/16) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🎉 Merged PR [#76](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/76) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🗣 Commented on [#13](https://github.com/eduMFA/eduMFA/pull/13#issuecomment-1976871654) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#13](https://github.com/eduMFA/eduMFA/pull/13) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 💪 Opened PR [#11](https://github.com/eduMFA/eduMFA/pull/11) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🔒 Closed issue [#16](https://github.com/Fortnite-API/py-wrapper/issues/16) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
