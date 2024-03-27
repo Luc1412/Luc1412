@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Add support for LEGO and Car Boost cosmetics](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.4) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#13](https://github.com/eduMFA/eduMFA/pull/13#issuecomment-1999811335) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🗣 Commented on [#13](https://github.com/eduMFA/eduMFA/pull/13#issuecomment-1983814335) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🚀 Published release [Add new Cosmetic types and Rarities](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.3) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. ❗ Opened issue [#6761](https://github.com/discord/discord-api-docs/issues/6761) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🚀 Published release [Add support for LEGO and Car Boost cosmetics](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.4) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🗣 Commented on [#13](https://github.com/eduMFA/eduMFA/pull/13#issuecomment-1999811335) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🗣 Commented on [#13](https://github.com/eduMFA/eduMFA/pull/13#issuecomment-1983814335) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
