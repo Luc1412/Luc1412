@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6761](https://github.com/discord/discord-api-docs/issues/6761#issuecomment-2024277664) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-2. ❗ Opened issue [#6761](https://github.com/discord/discord-api-docs/issues/6761) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🚀 Published release [Add support for LEGO and Car Boost cosmetics](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.4) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🗣 Commented on [#13](https://github.com/eduMFA/eduMFA/pull/13#issuecomment-1999811335) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🚀 Published release [Fix issue with BrCosmeticType Booster value](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🗣 Commented on [#6761](https://github.com/discord/discord-api-docs/issues/6761#issuecomment-2024277664) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. ❗ Opened issue [#6761](https://github.com/discord/discord-api-docs/issues/6761) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🚀 Published release [Add support for LEGO and Car Boost cosmetics](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.4) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
