@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/135#issuecomment-2037499580) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
-2. 🗣 Commented on [#190](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/190#issuecomment-2037496120) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
-3. 🎉 Merged PR [#1](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs/pull/1) in [Fortnite-DE/Laggrons-Dumb-Cogs](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs)
-4. 💪 Opened PR [#1](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs/pull/1) in [Fortnite-DE/Laggrons-Dumb-Cogs](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs)
+1. 🎉 Merged PR [#2](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs/pull/2) in [Fortnite-DE/Laggrons-Dumb-Cogs](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs)
+2. 💪 Opened PR [#2](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs/pull/2) in [Fortnite-DE/Laggrons-Dumb-Cogs](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs)
+3. 🗣 Commented on [#135](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/135#issuecomment-2037499580) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
+4. 🗣 Commented on [#190](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/190#issuecomment-2037496120) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
