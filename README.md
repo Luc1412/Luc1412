@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/eduMFA/eduMFA/pull/47) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🗣 Commented on [#216](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/216#issuecomment-2029748314) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
-3. 🚀 Published release [Fix issue with BrCosmeticType Booster value](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.5) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🗣 Commented on [#6761](https://github.com/discord/discord-api-docs/issues/6761#issuecomment-2024277664) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🗣 Commented on [#216](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/216#issuecomment-2035820675) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
+2. 💪 Opened PR [#217](https://github.com/laggron42/Laggrons-Dumb-Cogs/pull/217) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
+3. 💪 Opened PR [#47](https://github.com/eduMFA/eduMFA/pull/47) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🗣 Commented on [#216](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/216#issuecomment-2029748314) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
