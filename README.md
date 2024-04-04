@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/eduMFA/eduMFA/pull/49) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🗣 Commented on [#216](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/216#issuecomment-2035820675) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
-3. 💪 Opened PR [#217](https://github.com/laggron42/Laggrons-Dumb-Cogs/pull/217) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
-4. 💪 Opened PR [#47](https://github.com/eduMFA/eduMFA/pull/47) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🎉 Merged PR [#1](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs/pull/1) in [Fortnite-DE/Laggrons-Dumb-Cogs](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs)
+2. 💪 Opened PR [#1](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs/pull/1) in [Fortnite-DE/Laggrons-Dumb-Cogs](https://github.com/Fortnite-DE/Laggrons-Dumb-Cogs)
+3. 💪 Opened PR [#49](https://github.com/eduMFA/eduMFA/pull/49) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🗣 Commented on [#216](https://github.com/laggron42/Laggrons-Dumb-Cogs/issues/216#issuecomment-2035820675) in [laggron42/Laggrons-Dumb-Cogs](https://github.com/laggron42/Laggrons-Dumb-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
