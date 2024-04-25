@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#90](https://github.com/eduMFA/eduMFA/pull/90) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#88](https://github.com/eduMFA/eduMFA/pull/88) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🚀 Published release [Update shop tile sizes](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.6) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. ❗ Opened issue [#81](https://github.com/eduMFA/eduMFA/issues/81) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 💪 Opened PR [#9803](https://github.com/Rapptz/discord.py/pull/9803) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 💪 Opened PR [#90](https://github.com/eduMFA/eduMFA/pull/90) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 💪 Opened PR [#88](https://github.com/eduMFA/eduMFA/pull/88) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🚀 Published release [Update shop tile sizes](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.6) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
