@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/eduMFA/eduMFA/pull/127) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🚀 Published release [New Shop Tile Sizes](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.7) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 💪 Opened PR [#9803](https://github.com/Rapptz/discord.py/pull/9803) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 💪 Opened PR [#90](https://github.com/eduMFA/eduMFA/pull/90) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🎉 Merged PR [#128](https://github.com/eduMFA/eduMFA/pull/128) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🎉 Merged PR [#127](https://github.com/eduMFA/eduMFA/pull/127) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🚀 Published release [New Shop Tile Sizes](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.7) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 💪 Opened PR [#9803](https://github.com/Rapptz/discord.py/pull/9803) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
