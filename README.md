@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/78) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-2. 💪 Opened PR [#78](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/78) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. 🎉 Merged PR [#77](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/77) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 🎉 Merged PR [#136](https://github.com/eduMFA/eduMFA/pull/136) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🚀 Published release [Fix issue with new CosmeticCompatibleModes](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.8) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🎉 Merged PR [#78](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/78) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. 💪 Opened PR [#78](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/78) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. 🎉 Merged PR [#77](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/77) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
