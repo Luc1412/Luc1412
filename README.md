@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232626) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232569) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232149) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132231814) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132259656) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232626) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232569) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232149) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
