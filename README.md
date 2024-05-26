@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix issue with new CosmeticCompatibleModes](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.8) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🎉 Merged PR [#78](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/78) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. 💪 Opened PR [#78](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/78) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 🎉 Merged PR [#77](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/77) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232626) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232569) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232149) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132231814) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
