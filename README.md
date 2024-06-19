@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132259656) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232626) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232569) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🗣 Commented on [#19](https://github.com/Fortnite-API/py-wrapper/pull/19#issuecomment-2132232149) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 🎉 Merged PR [#6](https://github.com/eduMFA/Web/pull/6) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. 🎉 Merged PR [#12](https://github.com/eduMFA/Web/pull/12) in [eduMFA/Web](https://github.com/eduMFA/Web)
+3. 🎉 Merged PR [#10](https://github.com/eduMFA/Web/pull/10) in [eduMFA/Web](https://github.com/eduMFA/Web)
+4. 🎉 Merged PR [#11](https://github.com/eduMFA/Web/pull/11) in [eduMFA/Web](https://github.com/eduMFA/Web)
 <!--END_SECTION:activity-->
 
 </details>
