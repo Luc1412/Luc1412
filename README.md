@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#206](https://github.com/eduMFA/eduMFA/pull/206) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🎉 Merged PR [#22](https://github.com/eduMFA/Web/pull/22) in [eduMFA/Web](https://github.com/eduMFA/Web)
-3. 🎉 Merged PR [#23](https://github.com/eduMFA/Web/pull/23) in [eduMFA/Web](https://github.com/eduMFA/Web)
-4. 🎉 Merged PR [#19](https://github.com/eduMFA/Web/pull/19) in [eduMFA/Web](https://github.com/eduMFA/Web)
+1. 🗣 Commented on [#850](https://github.com/BeanieODM/beanie/issues/850#issuecomment-2234371763) in [BeanieODM/beanie](https://github.com/BeanieODM/beanie)
+2. 🎉 Merged PR [#206](https://github.com/eduMFA/eduMFA/pull/206) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🎉 Merged PR [#22](https://github.com/eduMFA/Web/pull/22) in [eduMFA/Web](https://github.com/eduMFA/Web)
+4. 🎉 Merged PR [#23](https://github.com/eduMFA/Web/pull/23) in [eduMFA/Web](https://github.com/eduMFA/Web)
 <!--END_SECTION:activity-->
 
 </details>
