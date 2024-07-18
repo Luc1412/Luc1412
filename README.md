@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#217](https://github.com/eduMFA/eduMFA/pull/217) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🗣 Commented on [#850](https://github.com/BeanieODM/beanie/issues/850#issuecomment-2234371763) in [BeanieODM/beanie](https://github.com/BeanieODM/beanie)
-3. 🎉 Merged PR [#206](https://github.com/eduMFA/eduMFA/pull/206) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🎉 Merged PR [#22](https://github.com/eduMFA/Web/pull/22) in [eduMFA/Web](https://github.com/eduMFA/Web)
+1. 💪 Opened PR [#218](https://github.com/eduMFA/eduMFA/pull/218) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🎉 Merged PR [#216](https://github.com/eduMFA/eduMFA/pull/216) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 💪 Opened PR [#217](https://github.com/eduMFA/eduMFA/pull/217) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🗣 Commented on [#850](https://github.com/BeanieODM/beanie/issues/850#issuecomment-2234371763) in [BeanieODM/beanie](https://github.com/BeanieODM/beanie)
 <!--END_SECTION:activity-->
 
 </details>
