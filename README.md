@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#259](https://github.com/eduMFA/eduMFA/pull/259) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🎉 Merged PR [#254](https://github.com/eduMFA/eduMFA/pull/254) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🎉 Merged PR [#247](https://github.com/eduMFA/eduMFA/pull/247) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🎉 Merged PR [#249](https://github.com/eduMFA/eduMFA/pull/249) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🚀 Published release [Fix offer image being optional ](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.9) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🎉 Merged PR [#259](https://github.com/eduMFA/eduMFA/pull/259) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🎉 Merged PR [#254](https://github.com/eduMFA/eduMFA/pull/254) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🎉 Merged PR [#247](https://github.com/eduMFA/eduMFA/pull/247) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
