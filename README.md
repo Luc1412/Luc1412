@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/80#issuecomment-2304030837) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-2. 🎉 Merged PR [#80](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/80) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-3. ❗ Opened issue [#278](https://github.com/eduMFA/eduMFA/issues/278) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🚀 Published release [Fix offer image being optional ](https://github.com/Fortnite-API/py-wrapper/releases/tag/v2.6.9) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 💪 Opened PR [#290](https://github.com/eduMFA/eduMFA/pull/290) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🗣 Commented on [#80](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/80#issuecomment-2304030837) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+3. 🎉 Merged PR [#80](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/80) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+4. ❗ Opened issue [#278](https://github.com/eduMFA/eduMFA/issues/278) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
