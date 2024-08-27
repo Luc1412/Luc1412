@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#294](https://github.com/eduMFA/eduMFA/pull/294) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🗣 Commented on [#290](https://github.com/eduMFA/eduMFA/pull/290#issuecomment-2309592759) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🎉 Merged PR [#82](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/82) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
-4. 💪 Opened PR [#82](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/82) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🗣 Commented on [#294](https://github.com/eduMFA/eduMFA/pull/294#issuecomment-2311989345) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#294](https://github.com/eduMFA/eduMFA/pull/294) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🗣 Commented on [#290](https://github.com/eduMFA/eduMFA/pull/290#issuecomment-2309592759) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🎉 Merged PR [#82](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/82) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
 <!--END_SECTION:activity-->
 
 </details>
