@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0 Wrapper Rewrite](https://github.com/Fortnite-API/py-wrapper/releases/tag/v3.0.0) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🚀 Published release [v3.0 Wrapper Rewrite](https://github.com/Fortnite-API/py-wrapper/releases/tag/v3.0.0) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. ❗ Opened issue [#297](https://github.com/eduMFA/eduMFA/issues/297) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🎉 Merged PR [#19](https://github.com/Fortnite-API/py-wrapper/pull/19) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 🔒 Closed issue [#278](https://github.com/eduMFA/eduMFA/issues/278) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🎉 Merged PR [#294](https://github.com/eduMFA/eduMFA/pull/294) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🚀 Published release [v3.0 Wrapper Rewrite](https://github.com/Fortnite-API/py-wrapper/releases/tag/v3.0.0) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🚀 Published release [v3.0 Wrapper Rewrite](https://github.com/Fortnite-API/py-wrapper/releases/tag/v3.0.0) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
