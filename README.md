@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Luc1412/TestAutoPR/issues/1) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
-2. 🎉 Merged PR [#95](https://github.com/eduMFA/Web/pull/95) in [eduMFA/Web](https://github.com/eduMFA/Web)
-3. 🎉 Merged PR [#93](https://github.com/eduMFA/Web/pull/93) in [eduMFA/Web](https://github.com/eduMFA/Web)
-4. 🎉 Merged PR [#94](https://github.com/eduMFA/Web/pull/94) in [eduMFA/Web](https://github.com/eduMFA/Web)
+1. ❗ Opened issue [#3](https://github.com/Luc1412/TestAutoPR/issues/3) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+2. ❗ Opened issue [#2](https://github.com/Luc1412/TestAutoPR/issues/2) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+3. ❗ Opened issue [#1](https://github.com/Luc1412/TestAutoPR/issues/1) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+4. 🎉 Merged PR [#95](https://github.com/eduMFA/Web/pull/95) in [eduMFA/Web](https://github.com/eduMFA/Web)
 <!--END_SECTION:activity-->
 
 </details>
