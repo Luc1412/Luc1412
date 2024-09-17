@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/Luc1412/TestAutoPR/pull/24#issuecomment-2355955620) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
-2. ❗ Opened issue [#23](https://github.com/Luc1412/TestAutoPR/issues/23) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
-3. ❗ Opened issue [#21](https://github.com/Luc1412/TestAutoPR/issues/21) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
-4. ❗ Opened issue [#20](https://github.com/Luc1412/TestAutoPR/issues/20) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+1. ❗ Opened issue [#25](https://github.com/Luc1412/TestAutoPR/issues/25) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+2. 🗣 Commented on [#24](https://github.com/Luc1412/TestAutoPR/pull/24#issuecomment-2355955620) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+3. ❗ Opened issue [#23](https://github.com/Luc1412/TestAutoPR/issues/23) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+4. ❗ Opened issue [#21](https://github.com/Luc1412/TestAutoPR/issues/21) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
 <!--END_SECTION:activity-->
 
 </details>
