@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/eduMFA/Web/pull/101) in [eduMFA/Web](https://github.com/eduMFA/Web)
-2. 🎉 Merged PR [#102](https://github.com/eduMFA/Web/pull/102) in [eduMFA/Web](https://github.com/eduMFA/Web)
-3. ❗ Opened issue [#27](https://github.com/Luc1412/TestAutoPR/issues/27) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
-4. 🎉 Merged PR [#92](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/92) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. ❗ Opened issue [#30](https://github.com/Luc1412/TestAutoPR/issues/30) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+2. ❗ Opened issue [#29](https://github.com/Luc1412/TestAutoPR/issues/29) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+3. 🔒 Closed issue [#27](https://github.com/Luc1412/TestAutoPR/issues/27) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
+4. ❌ Closed PR [#28](https://github.com/Luc1412/TestAutoPR/pull/28) in [Luc1412/TestAutoPR](https://github.com/Luc1412/TestAutoPR)
 <!--END_SECTION:activity-->
 
 </details>
