@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/Luc1412/eduMFA-Web-Test/issues/10) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
-2. ❗ Opened issue [#8](https://github.com/Luc1412/eduMFA-Web-Test/issues/8) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
-3. ❗ Opened issue [#7](https://github.com/Luc1412/eduMFA-Web-Test/issues/7) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
-4. ❗ Opened issue [#6](https://github.com/Luc1412/eduMFA-Web-Test/issues/6) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
+1. 🔒 Closed issue [#110](https://github.com/eduMFA/Web/issues/110) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. 🎉 Merged PR [#116](https://github.com/eduMFA/Web/pull/116) in [eduMFA/Web](https://github.com/eduMFA/Web)
+3. 💪 Opened PR [#116](https://github.com/eduMFA/Web/pull/116) in [eduMFA/Web](https://github.com/eduMFA/Web)
+4. 🔒 Closed issue [#111](https://github.com/eduMFA/Web/issues/111) in [eduMFA/Web](https://github.com/eduMFA/Web)
 <!--END_SECTION:activity-->
 
 </details>
