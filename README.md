@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/Luc1412/eduMFA-Web-Test/issues/3) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
-2. 🔒 Closed issue [#2](https://github.com/Luc1412/eduMFA-Web-Test/issues/2) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
-3. ❗ Opened issue [#2](https://github.com/Luc1412/eduMFA-Web-Test/issues/2) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
-4. 🔒 Closed issue [#1](https://github.com/Luc1412/eduMFA-Web-Test/issues/1) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
+1. ❗ Opened issue [#4](https://github.com/Luc1412/eduMFA-Web-Test/issues/4) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
+2. ❗ Opened issue [#3](https://github.com/Luc1412/eduMFA-Web-Test/issues/3) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
+3. 🔒 Closed issue [#2](https://github.com/Luc1412/eduMFA-Web-Test/issues/2) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
+4. ❗ Opened issue [#2](https://github.com/Luc1412/eduMFA-Web-Test/issues/2) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
 <!--END_SECTION:activity-->
 
 </details>
