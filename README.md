@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/eduMFA/Web/pull/108) in [eduMFA/Web](https://github.com/eduMFA/Web)
-2. 🎉 Merged PR [#109](https://github.com/eduMFA/Web/pull/109) in [eduMFA/Web](https://github.com/eduMFA/Web)
-3. 🎉 Merged PR [#23](https://github.com/Fortnite-API/py-wrapper/pull/23) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 💪 Opened PR [#328](https://github.com/eduMFA/eduMFA/pull/328) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. ❗ Opened issue [#3](https://github.com/Luc1412/eduMFA-Web-Test/issues/3) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
+2. 🔒 Closed issue [#2](https://github.com/Luc1412/eduMFA-Web-Test/issues/2) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
+3. ❗ Opened issue [#2](https://github.com/Luc1412/eduMFA-Web-Test/issues/2) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
+4. 🔒 Closed issue [#1](https://github.com/Luc1412/eduMFA-Web-Test/issues/1) in [Luc1412/eduMFA-Web-Test](https://github.com/Luc1412/eduMFA-Web-Test)
 <!--END_SECTION:activity-->
 
 </details>
