@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/Luc1412/WebTestCI/issues/7) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
-2. ❗ Opened issue [#6](https://github.com/Luc1412/WebTestCI/issues/6) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
-3. ❗ Opened issue [#5](https://github.com/Luc1412/WebTestCI/issues/5) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
-4. ❗ Opened issue [#4](https://github.com/Luc1412/WebTestCI/issues/4) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+1. ❗ Opened issue [#10](https://github.com/Luc1412/WebTestCI/issues/10) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+2. ❗ Opened issue [#9](https://github.com/Luc1412/WebTestCI/issues/9) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+3. ❗ Opened issue [#8](https://github.com/Luc1412/WebTestCI/issues/8) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+4. ❗ Opened issue [#7](https://github.com/Luc1412/WebTestCI/issues/7) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
 <!--END_SECTION:activity-->
 
 </details>
