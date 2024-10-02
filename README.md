@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/Luc1412/WebTestCI/pull/11) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
-2. ❗ Opened issue [#15](https://github.com/Luc1412/WebTestCI/issues/15) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
-3. ❗ Opened issue [#14](https://github.com/Luc1412/WebTestCI/issues/14) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
-4. ❗ Opened issue [#13](https://github.com/Luc1412/WebTestCI/issues/13) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+1. ❗ Opened issue [#18](https://github.com/Luc1412/WebTestCI/issues/18) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+2. ❗ Opened issue [#16](https://github.com/Luc1412/WebTestCI/issues/16) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+3. ❌ Closed PR [#11](https://github.com/Luc1412/WebTestCI/pull/11) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+4. ❗ Opened issue [#15](https://github.com/Luc1412/WebTestCI/issues/15) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
 <!--END_SECTION:activity-->
 
 </details>
