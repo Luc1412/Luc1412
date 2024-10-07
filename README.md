@@ -66,9 +66,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/eduMFA/Web/issues/127#issuecomment-2393417532) in [eduMFA/Web](https://github.com/eduMFA/Web)
-2. 🔒 Closed issue [#29](https://github.com/Luc1412/WebTestCI/issues/29) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
-3. 🔓 Reopened issue [#29](https://github.com/Luc1412/WebTestCI/issues/29) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
+1. 🗣 Commented on [#129](https://github.com/eduMFA/Web/issues/129#issuecomment-2396912163) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. ❗ Opened issue [#1](https://github.com/Luc1412/WebCiTest/issues/1) in [Luc1412/WebCiTest](https://github.com/Luc1412/WebCiTest)
+3. 🗣 Commented on [#127](https://github.com/eduMFA/Web/issues/127#issuecomment-2393417532) in [eduMFA/Web](https://github.com/eduMFA/Web)
 4. 🔒 Closed issue [#29](https://github.com/Luc1412/WebTestCI/issues/29) in [Luc1412/WebTestCI](https://github.com/Luc1412/WebTestCI)
 <!--END_SECTION:activity-->
 
