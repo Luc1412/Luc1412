@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/eduMFA/Web/pull/13) in [eduMFA/Web](https://github.com/eduMFA/Web)
-2. 🎉 Merged PR [#148](https://github.com/eduMFA/Web/pull/148) in [eduMFA/Web](https://github.com/eduMFA/Web)
-3. 🎉 Merged PR [#147](https://github.com/eduMFA/Web/pull/147) in [eduMFA/Web](https://github.com/eduMFA/Web)
-4. 🎉 Merged PR [#99](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi/pull/99) in [EasySystem-Development/EasyFortniteStats-ImageApi](https://github.com/EasySystem-Development/EasyFortniteStats-ImageApi)
+1. 🎉 Merged PR [#375](https://github.com/eduMFA/eduMFA/pull/375) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. ❌ Closed PR [#377](https://github.com/eduMFA/eduMFA/pull/377) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🎉 Merged PR [#381](https://github.com/eduMFA/eduMFA/pull/381) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🎉 Merged PR [#379](https://github.com/eduMFA/eduMFA/pull/379) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
