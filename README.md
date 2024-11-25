@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Fortnite-API/py-wrapper/pull/31) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 🗣 Commented on [#31](https://github.com/Fortnite-API/py-wrapper/pull/31#issuecomment-2493790631) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🎉 Merged PR [#34](https://github.com/Fortnite-API/py-wrapper/pull/34) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🎉 Merged PR [#436](https://github.com/eduMFA/eduMFA/pull/436) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🔒 Closed issue [#35](https://github.com/Fortnite-API/py-wrapper/issues/35) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 🗣 Commented on [#35](https://github.com/Fortnite-API/py-wrapper/issues/35#issuecomment-2497117116) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 🎉 Merged PR [#31](https://github.com/Fortnite-API/py-wrapper/pull/31) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🗣 Commented on [#31](https://github.com/Fortnite-API/py-wrapper/pull/31#issuecomment-2493790631) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
