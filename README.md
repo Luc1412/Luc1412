@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/Fortnite-API/py-wrapper/pull/39) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. ❌ Closed PR [#30](https://github.com/Fortnite-API/py-wrapper/pull/30) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. 🎉 Merged PR [#196](https://github.com/eduMFA/Web/pull/196) in [eduMFA/Web](https://github.com/eduMFA/Web)
-4. 🎉 Merged PR [#477](https://github.com/eduMFA/eduMFA/pull/477) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 💪 Opened PR [#40](https://github.com/Fortnite-API/py-wrapper/pull/40) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 💪 Opened PR [#39](https://github.com/Fortnite-API/py-wrapper/pull/39) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. ❌ Closed PR [#30](https://github.com/Fortnite-API/py-wrapper/pull/30) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 🎉 Merged PR [#196](https://github.com/eduMFA/Web/pull/196) in [eduMFA/Web](https://github.com/eduMFA/Web)
 <!--END_SECTION:activity-->
 
 </details>
