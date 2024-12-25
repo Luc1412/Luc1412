@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/Fortnite-API/py-wrapper/pull/40) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 💪 Opened PR [#39](https://github.com/Fortnite-API/py-wrapper/pull/39) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. ❌ Closed PR [#30](https://github.com/Fortnite-API/py-wrapper/pull/30) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-4. 🎉 Merged PR [#196](https://github.com/eduMFA/Web/pull/196) in [eduMFA/Web](https://github.com/eduMFA/Web)
+1. ❗ Opened issue [#41](https://github.com/Fortnite-API/py-wrapper/issues/41) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+2. 💪 Opened PR [#40](https://github.com/Fortnite-API/py-wrapper/pull/40) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+3. 💪 Opened PR [#39](https://github.com/Fortnite-API/py-wrapper/pull/39) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. ❌ Closed PR [#30](https://github.com/Fortnite-API/py-wrapper/pull/30) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
