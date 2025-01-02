@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/izyuumi/xcode-discord-rpc/issues/9) in [izyuumi/xcode-discord-rpc](https://github.com/izyuumi/xcode-discord-rpc)
-2. 🎉 Merged PR [#487](https://github.com/eduMFA/eduMFA/pull/487) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🎉 Merged PR [#480](https://github.com/eduMFA/eduMFA/pull/480) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🎉 Merged PR [#481](https://github.com/eduMFA/eduMFA/pull/481) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🗣 Commented on [#9](https://github.com/izyuumi/xcode-discord-rpc/issues/9#issuecomment-2568479477) in [izyuumi/xcode-discord-rpc](https://github.com/izyuumi/xcode-discord-rpc)
+2. ❗ Opened issue [#9](https://github.com/izyuumi/xcode-discord-rpc/issues/9) in [izyuumi/xcode-discord-rpc](https://github.com/izyuumi/xcode-discord-rpc)
+3. 🎉 Merged PR [#487](https://github.com/eduMFA/eduMFA/pull/487) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🎉 Merged PR [#480](https://github.com/eduMFA/eduMFA/pull/480) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
