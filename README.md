@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/eduMFA/authenticator/pull/47) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-2. 💪 Opened PR [#46](https://github.com/eduMFA/authenticator/pull/46) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-3. 🎉 Merged PR [#553](https://github.com/eduMFA/eduMFA/pull/553) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🎉 Merged PR [#554](https://github.com/eduMFA/eduMFA/pull/554) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🎉 Merged PR [#557](https://github.com/eduMFA/eduMFA/pull/557) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🎉 Merged PR [#558](https://github.com/eduMFA/eduMFA/pull/558) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🎉 Merged PR [#47](https://github.com/eduMFA/authenticator/pull/47) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+4. 💪 Opened PR [#46](https://github.com/eduMFA/authenticator/pull/46) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
 <!--END_SECTION:activity-->
 
 </details>
