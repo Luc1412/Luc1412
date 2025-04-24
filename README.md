@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas - aka [Luc1412][website] 👋
 
-[![Website](https://img.shields.io/website?label=Luc1412.de&style=for-the-badge&url=https%3A%2F%2Fluc1412.de)](https://luc1412.de)
+[![Website](https://img.shields.io/website?label=Luc1412.de&style=for-the-badge&url=https%3A%2F%2Fluc1412.dev)](https://luc1412.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luc141201?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluc1412&screen_name=luc141201)
 
 ## I'm a Software Engineer!
