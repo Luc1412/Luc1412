@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#423](https://github.com/eduMFA/Web/issues/423#issuecomment-2879082177) in [eduMFA/Web](https://github.com/eduMFA/Web)
-2. 🎉 Merged PR [#58](https://github.com/eduMFA/authenticator/pull/58) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-3. 🔒 Closed issue [#423](https://github.com/eduMFA/Web/issues/423) in [eduMFA/Web](https://github.com/eduMFA/Web)
-4. 🎉 Merged PR [#424](https://github.com/eduMFA/Web/pull/424) in [eduMFA/Web](https://github.com/eduMFA/Web)
+1. 🎉 Merged PR [#60](https://github.com/eduMFA/authenticator/pull/60) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+2. 🎉 Merged PR [#63](https://github.com/eduMFA/authenticator/pull/63) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+3. 🎉 Merged PR [#62](https://github.com/eduMFA/authenticator/pull/62) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+4. 🗣 Commented on [#423](https://github.com/eduMFA/Web/issues/423#issuecomment-2879082177) in [eduMFA/Web](https://github.com/eduMFA/Web)
 <!--END_SECTION:activity-->
 
 </details>
