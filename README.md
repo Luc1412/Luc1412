@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10294](https://github.com/Rapptz/discord.py/pull/10294#issuecomment-3248410806) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🗣 Commented on [#10294](https://github.com/Rapptz/discord.py/pull/10294#issuecomment-3248282645) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 💪 Opened PR [#10294](https://github.com/Rapptz/discord.py/pull/10294) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 💪 Opened PR [#104](https://github.com/EasyFortniteStats/image-api/pull/104) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+1. 💪 Opened PR [#10296](https://github.com/Rapptz/discord.py/pull/10296) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 🗣 Commented on [#10294](https://github.com/Rapptz/discord.py/pull/10294#issuecomment-3248410806) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🗣 Commented on [#10294](https://github.com/Rapptz/discord.py/pull/10294#issuecomment-3248282645) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 💪 Opened PR [#10294](https://github.com/Rapptz/discord.py/pull/10294) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
 <!--END_SECTION:activity-->
 
 </details>
