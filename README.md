@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#773](https://github.com/eduMFA/eduMFA/pull/773) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🎉 Merged PR [#108](https://github.com/EasyFortniteStats/image-api/pull/108) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
-3. 💪 Opened PR [#108](https://github.com/EasyFortniteStats/image-api/pull/108) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
-4. ❌ Closed PR [#107](https://github.com/EasyFortniteStats/image-api/pull/107) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+1. 🎉 Merged PR [#782](https://github.com/eduMFA/eduMFA/pull/782) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🎉 Merged PR [#767](https://github.com/eduMFA/eduMFA/pull/767) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🎉 Merged PR [#773](https://github.com/eduMFA/eduMFA/pull/773) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🎉 Merged PR [#108](https://github.com/EasyFortniteStats/image-api/pull/108) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
 <!--END_SECTION:activity-->
 
 </details>
