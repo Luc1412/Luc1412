@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#197](https://github.com/eduMFA/eduMFA/pull/197) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🎉 Merged PR [#829](https://github.com/eduMFA/eduMFA/pull/829) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🎉 Merged PR [#650](https://github.com/eduMFA/eduMFA/pull/650) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🎉 Merged PR [#826](https://github.com/eduMFA/eduMFA/pull/826) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🗣 Commented on [#405](https://github.com/eduMFA/eduMFA/pull/405#issuecomment-3402510808) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#112](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+3. 💪 Opened PR [#111](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+4. ❌ Assigned PR [#796](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
