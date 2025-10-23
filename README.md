@@ -66,8 +66,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/eduMFA/authenticator-next/issues/5) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2.  Labeled issue [#3](https://github.com/eduMFA/authenticator-next/issues/3) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. 🔒 Closed issue [#516](https://github.com/eduMFA/Web/issues/516) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. ❗ Opened issue [#5](https://github.com/eduMFA/authenticator-next/issues/5) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 3.  Labeled issue [#3](https://github.com/eduMFA/authenticator-next/issues/3) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 4.  Labeled issue [#3](https://github.com/eduMFA/authenticator-next/issues/3) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 <!--END_SECTION:activity-->
