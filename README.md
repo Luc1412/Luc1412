@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#850](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#850](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. ❌ Assigned PR [#849](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 💪 Opened PR [#849](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. ❌ Assigned PR [#853](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#853](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. ❌ Assigned PR [#850](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 💪 Opened PR [#850](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
