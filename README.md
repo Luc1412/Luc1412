@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#47](undefined) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-2. 💪 Opened PR [#47](undefined) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
-3. ❌ Assigned PR [#855](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 💪 Opened PR [#855](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. ❌ Assigned PR [#868](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#868](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. ❌ Assigned PR [#47](undefined) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+4. 💪 Opened PR [#47](undefined) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
