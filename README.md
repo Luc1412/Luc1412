@@ -66,7 +66,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.0](https://github.com/Fortnite-API/py-wrapper/releases/tag/v3.3.0) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
+1. 🚀 Published release [v3.3.0](https://github.com/Fortnite-API/py-wrapper/releases/tag/v3.3.0) in [Fortnite-API/py-wrapper](https://github.com/Fortnite-API/py-wrapper)
 2. ❌ Assigned PR [#869](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 3. 💪 Opened PR [#869](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 4. ❌ Closed PR [#832](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
