@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#882](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🗣 Commented on [#853](https://github.com/eduMFA/eduMFA/pull/853#issuecomment-3512671857) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3.  Unassigned issue [#875](https://github.com/eduMFA/eduMFA/issues/875) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4.  Assigned issue [#875](https://github.com/eduMFA/eduMFA/issues/875) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. ❌ Closed PR [#884](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. ❌ Closed PR [#882](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🗣 Commented on [#853](https://github.com/eduMFA/eduMFA/pull/853#issuecomment-3512671857) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4.  Unassigned issue [#875](https://github.com/eduMFA/eduMFA/issues/875) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
