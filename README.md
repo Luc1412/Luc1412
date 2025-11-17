@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#119](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
-2. 💪 Opened PR [#118](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
-3. ❌ Assigned PR [#885](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 💪 Opened PR [#885](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🔒 Closed issue [#655](https://github.com/eduMFA/eduMFA/issues/655) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#119](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+3. 💪 Opened PR [#118](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+4. ❌ Assigned PR [#885](undefined) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
