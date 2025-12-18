@@ -66,7 +66,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#655](https://github.com/eduMFA/eduMFA/issues/655) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🔒 Closed issue [#535](https://github.com/eduMFA/Web/issues/535) in [eduMFA/Web](https://github.com/eduMFA/Web)
 2. ❌ Merged PR [#119](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
 3. 💪 Opened PR [#119](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
 4. ❌ Merged PR [#118](undefined) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
