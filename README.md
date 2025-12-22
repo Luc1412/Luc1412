@@ -66,7 +66,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.9.0](https://github.com/eduMFA/eduMFA/releases/tag/v2.9.0rc1) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🚀 Published release [v2.9.0rc1](https://github.com/eduMFA/eduMFA/releases/tag/v2.9.0rc1) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 2.  Labeled issue [#943](https://github.com/eduMFA/eduMFA/issues/943) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 3. ❗ Opened issue [#943](https://github.com/eduMFA/eduMFA/issues/943) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 4.  Labeled issue [#942](https://github.com/eduMFA/eduMFA/issues/942) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
