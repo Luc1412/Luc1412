@@ -68,7 +68,7 @@
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v2.9.0rc1](https://github.com/eduMFA/eduMFA/releases/tag/v2.9.0rc1) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 2. 🗣 Commented on [#943](https://github.com/eduMFA/eduMFA/issues/943#issuecomment-3693378716) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3.  Labeled issue [#943](https://github.com/eduMFA/eduMFA/issues/943) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. ℹ️ Labeled issue [#943](https://github.com/eduMFA/eduMFA/issues/943) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 4. ❗ Opened issue [#943](https://github.com/eduMFA/eduMFA/issues/943) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
