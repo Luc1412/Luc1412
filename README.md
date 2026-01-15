@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#969](https://github.com/eduMFA/eduMFA/pull/969) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. ℹ️ Assigned PR [#969](https://github.com/eduMFA/eduMFA/pull/969) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🚀 Published release [v2.9.0rc1](https://github.com/eduMFA/eduMFA/releases/tag/v2.9.0rc1) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🗣 Commented on [#943](https://github.com/eduMFA/eduMFA/issues/943#issuecomment-3693378716) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🚀 Published release [v2.9.0](https://github.com/eduMFA/eduMFA/releases/tag/v2.9.0) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🎉 Merged PR [#969](https://github.com/eduMFA/eduMFA/pull/969) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 💪 Opened PR [#969](https://github.com/eduMFA/eduMFA/pull/969) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. ℹ️ Assigned PR [#969](https://github.com/eduMFA/eduMFA/pull/969) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
