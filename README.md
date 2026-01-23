@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#803](https://github.com/eduMFA/eduMFA/pull/803#issuecomment-3777968160) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🗣 Commented on [#803](https://github.com/eduMFA/eduMFA/pull/803#issuecomment-3773214287) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🗣 Commented on [#976](https://github.com/eduMFA/eduMFA/issues/976#issuecomment-3771848454) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🚀 Published release [v2.9.0](https://github.com/eduMFA/eduMFA/releases/tag/v2.9.0) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 💪 Opened PR [#981](https://github.com/eduMFA/eduMFA/pull/981) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🗣 Commented on [#803](https://github.com/eduMFA/eduMFA/pull/803#issuecomment-3777968160) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🗣 Commented on [#803](https://github.com/eduMFA/eduMFA/pull/803#issuecomment-3773214287) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🗣 Commented on [#976](https://github.com/eduMFA/eduMFA/issues/976#issuecomment-3771848454) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
