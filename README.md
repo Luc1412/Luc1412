@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#42502](https://github.com/expo/expo/issues/42502) in [expo/expo](https://github.com/expo/expo)
-2. ❗ Opened issue [#42502](https://github.com/expo/expo/issues/42502) in [expo/expo](https://github.com/expo/expo)
-3. 💪 Opened PR [#981](https://github.com/eduMFA/eduMFA/pull/981) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🗣 Commented on [#803](https://github.com/eduMFA/eduMFA/pull/803#issuecomment-3777968160) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. ℹ️ Assigned PR [#981](https://github.com/eduMFA/eduMFA/pull/981) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. ℹ️ Labeled issue [#42502](https://github.com/expo/expo/issues/42502) in [expo/expo](https://github.com/expo/expo)
+3. ❗ Opened issue [#42502](https://github.com/expo/expo/issues/42502) in [expo/expo](https://github.com/expo/expo)
+4. 💪 Opened PR [#981](https://github.com/eduMFA/eduMFA/pull/981) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
