@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#998](https://github.com/eduMFA/eduMFA/pull/998) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#998](https://github.com/eduMFA/eduMFA/pull/998) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🎉 Merged PR [#995](https://github.com/eduMFA/eduMFA/pull/995) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🎉 Merged PR [#122](https://github.com/EasyFortniteStats/image-api/pull/122) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+1. ℹ️ Assigned PR [#1001](https://github.com/eduMFA/eduMFA/pull/1001) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#1001](https://github.com/eduMFA/eduMFA/pull/1001) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🎉 Merged PR [#993](https://github.com/eduMFA/eduMFA/pull/993) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. ℹ️ Assigned PR [#998](https://github.com/eduMFA/eduMFA/pull/998) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
