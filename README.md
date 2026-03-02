@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/eduMFA/authenticator-next/issues/2) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2. 🗣 Commented on [#998](https://github.com/eduMFA/eduMFA/pull/998#issuecomment-3983627189) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. ❌ Closed PR [#1](https://github.com/eduMFA/authenticator-next/pull/1) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-4. 🗣 Commented on [#798](https://github.com/eduMFA/eduMFA/pull/798#issuecomment-3959714704) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🎉 Merged PR [#998](https://github.com/eduMFA/eduMFA/pull/998) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🔒 Closed issue [#2](https://github.com/eduMFA/authenticator-next/issues/2) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+3. 🗣 Commented on [#998](https://github.com/eduMFA/eduMFA/pull/998#issuecomment-3983627189) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. ❌ Closed PR [#1](https://github.com/eduMFA/authenticator-next/pull/1) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 <!--END_SECTION:activity-->
 
 </details>
