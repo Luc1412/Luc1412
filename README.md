@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Luc1412/Web/issues/1) in [Luc1412/Web](https://github.com/Luc1412/Web)
-2. 🗣 Commented on [#405](https://github.com/eduMFA/eduMFA/pull/405#issuecomment-4096576575) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. ℹ️ Assigned PR [#1060](https://github.com/eduMFA/eduMFA/pull/1060) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 💪 Opened PR [#1060](https://github.com/eduMFA/eduMFA/pull/1060) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🔒 Closed issue [#572](https://github.com/eduMFA/Web/issues/572) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. ℹ️ Labeled issue [#3](https://github.com/Luc1412/Web/issues/3) in [Luc1412/Web](https://github.com/Luc1412/Web)
+3. ❗ Opened issue [#3](https://github.com/Luc1412/Web/issues/3) in [Luc1412/Web](https://github.com/Luc1412/Web)
+4. ❗ Opened issue [#1](https://github.com/Luc1412/Web/issues/1) in [Luc1412/Web](https://github.com/Luc1412/Web)
 <!--END_SECTION:activity-->
 
 </details>
