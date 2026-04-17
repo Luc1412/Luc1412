@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/eduMFA/authenticator-next/pull/7) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2. 🔒 Closed issue [#575](https://github.com/eduMFA/Web/issues/575) in [eduMFA/Web](https://github.com/eduMFA/Web)
-3. ℹ️ Assigned PR [#7](https://github.com/eduMFA/authenticator-next/pull/7) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-4. 💪 Opened PR [#7](https://github.com/eduMFA/authenticator-next/pull/7) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. 🔒 Closed issue [#582](https://github.com/eduMFA/Web/issues/582) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. ❌ Closed PR [#7](https://github.com/eduMFA/authenticator-next/pull/7) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+3. 🔒 Closed issue [#575](https://github.com/eduMFA/Web/issues/575) in [eduMFA/Web](https://github.com/eduMFA/Web)
+4. ℹ️ Assigned PR [#7](https://github.com/eduMFA/authenticator-next/pull/7) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 <!--END_SECTION:activity-->
 
 </details>
