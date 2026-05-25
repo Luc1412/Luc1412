@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#117](https://github.com/eduMFA/authenticator/pull/117) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-2. 🗣 Commented on [#117](https://github.com/eduMFA/authenticator/pull/117#issuecomment-4530070010) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-3. 💪 Opened PR [#11](https://github.com/eduMFA/authenticator-next/pull/11) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-4. ℹ️ Assigned PR [#685](https://github.com/eduMFA/eduMFA/pull/685) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🗣 Commented on [#117](https://github.com/eduMFA/authenticator/pull/117#issuecomment-4533050454) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+2. ❌ Closed PR [#117](https://github.com/eduMFA/authenticator/pull/117) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+3. 🗣 Commented on [#117](https://github.com/eduMFA/authenticator/pull/117#issuecomment-4530070010) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+4. 💪 Opened PR [#11](https://github.com/eduMFA/authenticator-next/pull/11) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 <!--END_SECTION:activity-->
 
 </details>
