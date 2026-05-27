@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/eduMFA/authenticator/pull/116#issuecomment-4541816208) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-2. 🗣 Commented on [#117](https://github.com/eduMFA/authenticator/pull/117#issuecomment-4533050454) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-3. ❌ Closed PR [#117](https://github.com/eduMFA/authenticator/pull/117) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-4. 🗣 Commented on [#117](https://github.com/eduMFA/authenticator/pull/117#issuecomment-4530070010) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+1. 💪 Opened PR [#12](https://github.com/eduMFA/authenticator-next/pull/12) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+2. 🗣 Commented on [#116](https://github.com/eduMFA/authenticator/pull/116#issuecomment-4541816208) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+3. 🗣 Commented on [#117](https://github.com/eduMFA/authenticator/pull/117#issuecomment-4533050454) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+4. ❌ Closed PR [#117](https://github.com/eduMFA/authenticator/pull/117) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
 <!--END_SECTION:activity-->
 
 </details>
