@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/eduMFA/authenticator-next/pull/12) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2. 🗣 Commented on [#116](https://github.com/eduMFA/authenticator/pull/116#issuecomment-4541816208) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-3. 🗣 Commented on [#117](https://github.com/eduMFA/authenticator/pull/117#issuecomment-4533050454) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
-4. ❌ Closed PR [#117](https://github.com/eduMFA/authenticator/pull/117) in [eduMFA/authenticator](https://github.com/eduMFA/authenticator)
+1. 🎉 Merged PR [#124](https://github.com/EasyFortniteStats/image-api/pull/124) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+2. 💪 Opened PR [#124](https://github.com/EasyFortniteStats/image-api/pull/124) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+3. 🎉 Merged PR [#123](https://github.com/EasyFortniteStats/image-api/pull/123) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+4. 💪 Opened PR [#123](https://github.com/EasyFortniteStats/image-api/pull/123) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
 <!--END_SECTION:activity-->
 
 </details>
