@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1154](https://github.com/eduMFA/eduMFA/pull/1154) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#14](https://github.com/eduMFA/authenticator-next/pull/14) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-3. 💪 Opened PR [#13](https://github.com/eduMFA/authenticator-next/pull/13) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-4. 🎉 Merged PR [#124](https://github.com/EasyFortniteStats/image-api/pull/124) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+1. 🎉 Merged PR [#15](https://github.com/eduMFA/authenticator-next/pull/15) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+2. 💪 Opened PR [#15](https://github.com/eduMFA/authenticator-next/pull/15) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+3. ℹ️ Assigned PR [#1154](https://github.com/eduMFA/eduMFA/pull/1154) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 💪 Opened PR [#14](https://github.com/eduMFA/authenticator-next/pull/14) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 <!--END_SECTION:activity-->
 
 </details>
