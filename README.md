@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#685](https://github.com/eduMFA/eduMFA/pull/685#issuecomment-4661021034) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#16](https://github.com/eduMFA/authenticator-next/pull/16) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-3. 🎉 Merged PR [#15](https://github.com/eduMFA/authenticator-next/pull/15) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-4. 💪 Opened PR [#15](https://github.com/eduMFA/authenticator-next/pull/15) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. ℹ️ Labeled issue [#46804](https://github.com/expo/expo/issues/46804) in [expo/expo](https://github.com/expo/expo)
+2. ❗ Opened issue [#46804](https://github.com/expo/expo/issues/46804) in [expo/expo](https://github.com/expo/expo)
+3. ℹ️ Labeled issue [#46800](https://github.com/expo/expo/issues/46800) in [expo/expo](https://github.com/expo/expo)
+4. ❗ Opened issue [#46800](https://github.com/expo/expo/issues/46800) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 
 </details>
