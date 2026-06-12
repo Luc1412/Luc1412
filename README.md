@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#46804](https://github.com/expo/expo/issues/46804) in [expo/expo](https://github.com/expo/expo)
-2. ❗ Opened issue [#46804](https://github.com/expo/expo/issues/46804) in [expo/expo](https://github.com/expo/expo)
-3. ℹ️ Labeled issue [#46800](https://github.com/expo/expo/issues/46800) in [expo/expo](https://github.com/expo/expo)
-4. ❗ Opened issue [#46800](https://github.com/expo/expo/issues/46800) in [expo/expo](https://github.com/expo/expo)
+1. 🔒 Closed issue [#593](https://github.com/eduMFA/Web/issues/593) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. ℹ️ Labeled issue [#46804](https://github.com/expo/expo/issues/46804) in [expo/expo](https://github.com/expo/expo)
+3. ❗ Opened issue [#46804](https://github.com/expo/expo/issues/46804) in [expo/expo](https://github.com/expo/expo)
+4. ℹ️ Labeled issue [#46800](https://github.com/expo/expo/issues/46800) in [expo/expo](https://github.com/expo/expo)
 <!--END_SECTION:activity-->
 
 </details>
