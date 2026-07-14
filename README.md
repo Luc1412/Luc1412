@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/eduMFA/authenticator-next/pull/10) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2. 🎉 Merged PR [#1](https://github.com/Luc1412/eiscafe-suprise/pull/1) in [Luc1412/eiscafe-suprise](https://github.com/Luc1412/eiscafe-suprise)
-3. 💪 Opened PR [#1](https://github.com/Luc1412/eiscafe-suprise/pull/1) in [Luc1412/eiscafe-suprise](https://github.com/Luc1412/eiscafe-suprise)
-4. 💪 Opened PR [#18](https://github.com/eduMFA/authenticator-next/pull/18) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. ℹ️ Assigned issue [#1187](https://github.com/eduMFA/eduMFA/issues/1187) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. ℹ️ Labeled PR [#1209](https://github.com/eduMFA/eduMFA/pull/1209) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. ℹ️ Assigned PR [#1209](https://github.com/eduMFA/eduMFA/pull/1209) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🎉 Merged PR [#10](https://github.com/eduMFA/authenticator-next/pull/10) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 <!--END_SECTION:activity-->
 
 </details>
