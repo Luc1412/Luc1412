@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/eduMFA/authenticator-next/pull/13) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2. ℹ️ Assigned issue [#1187](https://github.com/eduMFA/eduMFA/issues/1187) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. ℹ️ Labeled PR [#1209](https://github.com/eduMFA/eduMFA/pull/1209) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. ℹ️ Assigned PR [#1209](https://github.com/eduMFA/eduMFA/pull/1209) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. ℹ️ Assigned PR [#1238](https://github.com/eduMFA/eduMFA/pull/1238) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#1238](https://github.com/eduMFA/eduMFA/pull/1238) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🎉 Merged PR [#13](https://github.com/eduMFA/authenticator-next/pull/13) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+4. ℹ️ Assigned issue [#1187](https://github.com/eduMFA/eduMFA/issues/1187) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
