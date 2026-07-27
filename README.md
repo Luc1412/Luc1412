@@ -66,9 +66,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1238](https://github.com/eduMFA/eduMFA/pull/1238#issuecomment-5048120584) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#1239](https://github.com/eduMFA/eduMFA/pull/1239) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. ℹ️ Assigned PR [#1238](https://github.com/eduMFA/eduMFA/pull/1238) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🎉 Merged PR [#1239](https://github.com/eduMFA/eduMFA/pull/1239) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 🗣 Commented on [#1238](https://github.com/eduMFA/eduMFA/pull/1238#issuecomment-5048120584) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 💪 Opened PR [#1239](https://github.com/eduMFA/eduMFA/pull/1239) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 4. 💪 Opened PR [#1238](https://github.com/eduMFA/eduMFA/pull/1238) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
