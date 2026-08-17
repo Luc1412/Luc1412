@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/eduMFA/authenticator-next/pull/23) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2. ❌ Closed PR [#22](https://github.com/eduMFA/authenticator-next/pull/22) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-3. 🗣 Commented on [#22](https://github.com/eduMFA/authenticator-next/pull/22#issuecomment-5281181870) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-4. 💪 Opened PR [#22](https://github.com/eduMFA/authenticator-next/pull/22) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. 🚀 Published release [1.0.0 Beta 4](https://github.com/eduMFA/authenticator-next/releases/tag/beta/1.0.0-beta.4) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+2. 💪 Opened PR [#23](https://github.com/eduMFA/authenticator-next/pull/23) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+3. ❌ Closed PR [#22](https://github.com/eduMFA/authenticator-next/pull/22) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+4. 🗣 Commented on [#22](https://github.com/eduMFA/authenticator-next/pull/22#issuecomment-5281181870) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 <!--END_SECTION:activity-->
 
 </details>
