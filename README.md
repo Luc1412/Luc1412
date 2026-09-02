@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1238](https://github.com/eduMFA/eduMFA/pull/1238) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🎉 Merged PR [#1246](https://github.com/eduMFA/eduMFA/pull/1246) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🗣 Commented on [#1146](https://github.com/eduMFA/eduMFA/pull/1146#issuecomment-5346345690) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🚀 Published release [1.0.0 Beta 4](https://github.com/eduMFA/authenticator-next/releases/tag/beta/1.0.0-beta.4) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. 💪 Opened PR [#28](https://github.com/eduMFA/authenticator-next/pull/28) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+2. 🎉 Merged PR [#1238](https://github.com/eduMFA/eduMFA/pull/1238) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🎉 Merged PR [#1246](https://github.com/eduMFA/eduMFA/pull/1246) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🗣 Commented on [#1146](https://github.com/eduMFA/eduMFA/pull/1146#issuecomment-5346345690) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
