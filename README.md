@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0 Beta 5](https://github.com/eduMFA/authenticator-next/releases/tag/beta/1.0.0-beta.5) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2. 🗣 Commented on [#808](https://github.com/eduMFA/eduMFA/issues/808#issuecomment-5522046872) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🔒 Closed issue [#808](https://github.com/eduMFA/eduMFA/issues/808) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🎉 Merged PR [#17](https://github.com/eduMFA/authenticator-next/pull/17) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. 🗣 Commented on [#305](https://github.com/eduMFA/Web/pull/305#issuecomment-5527472916) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. ❌ Closed PR [#305](https://github.com/eduMFA/Web/pull/305) in [eduMFA/Web](https://github.com/eduMFA/Web)
+3. 🚀 Published release [1.0.0 Beta 5](https://github.com/eduMFA/authenticator-next/releases/tag/beta/1.0.0-beta.5) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+4. 🗣 Commented on [#808](https://github.com/eduMFA/eduMFA/issues/808#issuecomment-5522046872) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
