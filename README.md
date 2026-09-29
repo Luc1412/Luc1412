@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/EasyFortniteStats/image-api/pull/130) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
-2. 💪 Opened PR [#130](https://github.com/EasyFortniteStats/image-api/pull/130) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
-3. 🎉 Merged PR [#129](https://github.com/EasyFortniteStats/image-api/pull/129) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
-4. 💪 Opened PR [#129](https://github.com/EasyFortniteStats/image-api/pull/129) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+1. 💪 Opened PR [#29](https://github.com/eduMFA/authenticator-next/pull/29) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+2. 🎉 Merged PR [#130](https://github.com/EasyFortniteStats/image-api/pull/130) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+3. 💪 Opened PR [#130](https://github.com/EasyFortniteStats/image-api/pull/130) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
+4. 🎉 Merged PR [#129](https://github.com/EasyFortniteStats/image-api/pull/129) in [EasyFortniteStats/image-api](https://github.com/EasyFortniteStats/image-api)
 <!--END_SECTION:activity-->
 
 </details>
