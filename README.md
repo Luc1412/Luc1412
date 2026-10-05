@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0 Beta 6](https://github.com/eduMFA/authenticator-next/releases/tag/beta/1.0.0-beta.6) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-2. 🗣 Commented on [#1317](https://github.com/eduMFA/eduMFA/pull/1317#issuecomment-5953895887) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🎉 Merged PR [#29](https://github.com/eduMFA/authenticator-next/pull/29) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
-4. 💪 Opened PR [#1320](https://github.com/eduMFA/eduMFA/pull/1320) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. ℹ️ Assigned PR [#1324](https://github.com/eduMFA/eduMFA/pull/1324) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#1324](https://github.com/eduMFA/eduMFA/pull/1324) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 💪 Opened PR [#1322](https://github.com/eduMFA/eduMFA/pull/1322) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 🚀 Published release [1.0.0 Beta 6](https://github.com/eduMFA/authenticator-next/releases/tag/beta/1.0.0-beta.6) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
 <!--END_SECTION:activity-->
 
 </details>
