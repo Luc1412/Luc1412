@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1324](https://github.com/eduMFA/eduMFA/pull/1324) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#1324](https://github.com/eduMFA/eduMFA/pull/1324) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 💪 Opened PR [#1322](https://github.com/eduMFA/eduMFA/pull/1322) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 🚀 Published release [1.0.0 Beta 6](https://github.com/eduMFA/authenticator-next/releases/tag/beta/1.0.0-beta.6) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. 🚀 Published release [1.0.0 Beta 7](https://github.com/eduMFA/authenticator-next/releases/tag/beta/1.0.0-beta.7) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+2. ℹ️ Assigned PR [#1324](https://github.com/eduMFA/eduMFA/pull/1324) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 💪 Opened PR [#1324](https://github.com/eduMFA/eduMFA/pull/1324) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 💪 Opened PR [#1322](https://github.com/eduMFA/eduMFA/pull/1322) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
