@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1332](https://github.com/eduMFA/eduMFA/issues/1332) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. ℹ️ Assigned issue [#1332](https://github.com/eduMFA/eduMFA/issues/1332) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. ℹ️ Labeled issue [#1332](https://github.com/eduMFA/eduMFA/issues/1332) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. ❗ Opened issue [#32](https://github.com/eduMFA/authenticator-next/issues/32) in [eduMFA/authenticator-next](https://github.com/eduMFA/authenticator-next)
+1. ℹ️ Assigned PR [#1338](https://github.com/eduMFA/eduMFA/pull/1338) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#1338](https://github.com/eduMFA/eduMFA/pull/1338) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. ❗ Opened issue [#1332](https://github.com/eduMFA/eduMFA/issues/1332) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. ℹ️ Assigned issue [#1332](https://github.com/eduMFA/eduMFA/issues/1332) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
