@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1338](https://github.com/eduMFA/eduMFA/pull/1338#issuecomment-6692485653) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 🗣 Commented on [#1338](https://github.com/eduMFA/eduMFA/pull/1338#issuecomment-6691689825) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. 🗣 Commented on [#1338](https://github.com/eduMFA/eduMFA/pull/1338#issuecomment-6691149709) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. ℹ️ Assigned PR [#1347](https://github.com/eduMFA/eduMFA/pull/1347) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🎉 Merged PR [#626](https://github.com/eduMFA/Web/pull/626) in [eduMFA/Web](https://github.com/eduMFA/Web)
+2. 💪 Opened PR [#626](https://github.com/eduMFA/Web/pull/626) in [eduMFA/Web](https://github.com/eduMFA/Web)
+3. 🔒 Closed issue [#622](https://github.com/eduMFA/Web/issues/622) in [eduMFA/Web](https://github.com/eduMFA/Web)
+4. 🗣 Commented on [#1338](https://github.com/eduMFA/eduMFA/pull/1338#issuecomment-6692485653) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
