@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1365](https://github.com/eduMFA/eduMFA/pull/1365) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. 💪 Opened PR [#627](https://github.com/eduMFA/Web/pull/627) in [eduMFA/Web](https://github.com/eduMFA/Web)
-3. ℹ️ Assigned PR [#1361](https://github.com/eduMFA/eduMFA/pull/1361) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 💪 Opened PR [#1361](https://github.com/eduMFA/eduMFA/pull/1361) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🗣 Commented on [#405](https://github.com/eduMFA/eduMFA/pull/405#issuecomment-6861121564) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. 💪 Opened PR [#1365](https://github.com/eduMFA/eduMFA/pull/1365) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 💪 Opened PR [#627](https://github.com/eduMFA/Web/pull/627) in [eduMFA/Web](https://github.com/eduMFA/Web)
+4. ℹ️ Assigned PR [#1361](https://github.com/eduMFA/eduMFA/pull/1361) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
