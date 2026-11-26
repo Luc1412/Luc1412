@@ -66,10 +66,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1318](https://github.com/eduMFA/eduMFA/pull/1318) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-2. ℹ️ Labeled PR [#1424](https://github.com/eduMFA/eduMFA/pull/1424) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-3. ℹ️ Assigned PR [#1424](https://github.com/eduMFA/eduMFA/pull/1424) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
-4. 💪 Opened PR [#1424](https://github.com/eduMFA/eduMFA/pull/1424) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+1. 🎉 Merged PR [#1418](https://github.com/eduMFA/eduMFA/pull/1418) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+2. ℹ️ Assigned PR [#1425](https://github.com/eduMFA/eduMFA/pull/1425) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+3. 🗣 Commented on [#1425](https://github.com/eduMFA/eduMFA/pull/1425#issuecomment-7172672080) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
+4. 💪 Opened PR [#1425](https://github.com/eduMFA/eduMFA/pull/1425) in [eduMFA/eduMFA](https://github.com/eduMFA/eduMFA)
 <!--END_SECTION:activity-->
 
 </details>
